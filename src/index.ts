@@ -24,7 +24,7 @@ import { WORDPRESS_SITES } from './config/sites.js';
  * Orchestrates the WordPress API service and content writer service
  * to provide a complete content synchronization workflow.
  */
-class WordPressContentCli {
+export class WordPressContentCli {
   private apiService: WordPressApiService;
   private writerService: ContentWriterService;
 
