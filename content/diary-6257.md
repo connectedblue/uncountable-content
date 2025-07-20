@@ -48,7 +48,3 @@ tag:
 
 
 <p>The seed from this project will go into the neighbouring field in September.  In addition, there&#8217;s a further 5 hectares to spread in this area, so quite an important goal for this year.</p>
-
-
-
-<p>A new sentence.</p>
