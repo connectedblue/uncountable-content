@@ -316,7 +316,7 @@ export class ContentWriterService {
       yaml.push(`day_format_date: ${this.escapeYamlValue(post.day_format_date)}`);
     }
     
-    return yaml.join('\\n');
+    return yaml.join('\n');
   }
 
   /**

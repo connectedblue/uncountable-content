@@ -288,8 +288,10 @@ async function main() {
   await program.parseAsync(process.argv);
 }
 
-// Execute the main function
-main().catch(error => {
-  console.error('❌ Unexpected error:', error);
-  process.exit(1);
-});
+// Execute the main function only if this module is run directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(error => {
+    console.error('❌ Unexpected error:', error);
+    process.exit(1);
+  });
+}
