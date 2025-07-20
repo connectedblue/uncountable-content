@@ -50,9 +50,6 @@ jobs:
           days="${{ github.event.inputs.days || '30' }}"
           echo "Running incremental sync (last ${days} days)..."
           npm run package -- --days="${days}"
-        env:
-          # Add WordPress API credentials here if needed
-          # WP_API_KEY: ${{ secrets.WP_API_KEY }}
       
       - name: Run WordPress content sync (full - manual only)
         if: github.event_name == 'workflow_dispatch' && github.event.inputs.sync_type == 'full'
@@ -60,9 +57,6 @@ jobs:
           echo "Running full content sync..."
           npm run full
           npm run package -- --days=365  # Package all content for full sync
-        env:
-          # Add WordPress API credentials here if needed
-          # WP_API_KEY: ${{ secrets.WP_API_KEY }}
       
       - name: Check for content changes and archive creation
         id: changes
