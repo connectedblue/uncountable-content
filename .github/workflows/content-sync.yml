@@ -48,7 +48,7 @@ jobs:
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.sync_type == 'incremental')
         run: |
           days="${{ github.event.inputs.days || '30' }}"
-          echo "🔄 Running incremental sync (last ${days} days)..."
+          echo "Running incremental sync (last ${days} days)..."
           npm run package -- --days="${days}"
         env:
           # Add WordPress API credentials here if needed
@@ -57,7 +57,7 @@ jobs:
       - name: Run WordPress content sync (full - manual only)
         if: github.event_name == 'workflow_dispatch' && github.event.inputs.sync_type == 'full'
         run: |
-          echo "🔄 Running full content sync..."
+          echo "Running full content sync..."
           npm run full
           npm run package -- --days=365  # Package all content for full sync
         env:
@@ -90,11 +90,11 @@ jobs:
             echo "sync_type=${sync_type}" >> $GITHUB_OUTPUT
             echo "days=${days}" >> $GITHUB_OUTPUT
             
-            echo "✅ Archive created: ${archive_file}"
-            echo "📊 Content: ${file_count} files (${total_size}), Archive: ${archive_size}"
+            echo "Archive created: ${archive_file}"
+            echo "Content: ${file_count} files (${total_size}), Archive: ${archive_size}"
           else
             echo "changes=false" >> $GITHUB_OUTPUT
-            echo "ℹ️  No changes detected - no archive created"
+            echo "No changes detected - no archive created"
           fi
       
       - name: Generate release information
@@ -108,56 +108,56 @@ jobs:
             release_title="Full Content Sync $(date +'%Y-%m-%d %H:%M')"
             
             cat > release_body.md << 'EOF'
-          🔄 **Full WordPress Content Sync**
+          **Full WordPress Content Sync**
 
           This release contains a complete refresh of all WordPress content.
           
-          📊 **Content Statistics:**
+          **Content Statistics:**
           - **Files:** ${{ steps.changes.outputs.file_count }} markdown files
           - **Content Size:** ${{ steps.changes.outputs.total_size }}
           - **Archive Size:** ${{ steps.changes.outputs.archive_size }}
           - **Sync Type:** Manual full sync
           - **Timestamp:** $(date +'%Y-%m-%d %H:%M:%S UTC')
           
-          📝 **Changes:**
+          **Changes:**
           Complete content refresh from all configured WordPress sites:
           - My Thoughts (https://thoughts.uncountable.uk)
           - My Diary (https://diary.uncountable.uk)
           
           All content has been regenerated and committed to version control.
           
-          🔗 **Integration:**
+          **Integration:**
           Download the `${{ steps.changes.outputs.archive_name }}` archive for integration with the main Astro application.
           
-          📋 **Commit:** ${{ github.sha }}
+          **Commit:** ${{ github.sha }}
           EOF
           else
             release_tag="content-${timestamp}"
             release_title="Content Update $(date +'%Y-%m-%d %H:%M')"
             
             cat > release_body.md << 'EOF'
-          📈 **WordPress Content Update**
+          **WordPress Content Update**
 
           Automated content sync for recent changes (last ${{ steps.changes.outputs.days }} days).
           
-          📊 **Content Statistics:**
+          **Content Statistics:**
           - **Files:** ${{ steps.changes.outputs.file_count }} markdown files  
           - **Content Size:** ${{ steps.changes.outputs.total_size }}
           - **Archive Size:** ${{ steps.changes.outputs.archive_size }}
           - **Sync Period:** Last ${{ steps.changes.outputs.days }} days
           - **Timestamp:** $(date +'%Y-%m-%d %H:%M:%S UTC')
           
-          📝 **Changes:**
+          **Changes:**
           Recent WordPress content updates from configured sites:
           - My Thoughts (https://thoughts.uncountable.uk)
           - My Diary (https://diary.uncountable.uk)
           
           Changes have been committed to the repository for version control.
           
-          🔗 **Integration:**
+          **Integration:**
           Download the `${{ steps.changes.outputs.archive_name }}` archive for integration with the main Astro application.
           
-          📋 **Commit:** ${{ github.sha }}
+          **Commit:** ${{ github.sha }}
           EOF
           fi
           
@@ -180,10 +180,10 @@ jobs:
       - name: Archive cleanup
         if: steps.changes.outputs.changes == 'true'
         run: |
-          echo "🧹 Cleaning up old archive files..."
+          echo "Cleaning up old archive files..."
           # Keep only the 5 most recent archives to prevent storage bloat
           ls -t archives/wordpress-content-*.tar.gz | tail -n +6 | xargs -r rm -f
-          echo "✅ Archive cleanup completed"
+          echo "Archive cleanup completed"
       
       - name: Workflow summary
         run: |
@@ -191,7 +191,7 @@ jobs:
             sync_type="${{ steps.changes.outputs.sync_type }}"
             days="${{ steps.changes.outputs.days }}"
             
-            echo "## 🎉 WordPress Content Sync Completed" >> $GITHUB_STEP_SUMMARY
+            echo "## WordPress Content Sync Completed" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "**Sync Type:** ${sync_type}" >> $GITHUB_STEP_SUMMARY
             echo "**Period:** Last ${days} days" >> $GITHUB_STEP_SUMMARY
@@ -200,9 +200,9 @@ jobs:
             echo "**Archive:** ${{ steps.changes.outputs.archive_name }} (${{ steps.changes.outputs.archive_size }})" >> $GITHUB_STEP_SUMMARY
             echo "**Release:** ${{ steps.release_info.outputs.release_tag }}" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
-            echo "✅ Archive created and GitHub release published successfully!" >> $GITHUB_STEP_SUMMARY
+            echo "Archive created and GitHub release published successfully!" >> $GITHUB_STEP_SUMMARY
           else
-            echo "## ℹ️ WordPress Content Sync - No Changes" >> $GITHUB_STEP_SUMMARY
+            echo "## WordPress Content Sync - No Changes" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "No content changes detected during sync. Archive creation and release skipped." >> $GITHUB_STEP_SUMMARY
             sync_type="${{ github.event.inputs.sync_type || 'incremental' }}"
