@@ -5,6 +5,28 @@ All notable changes to the WordPress Content Service will be documented in this 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2025-07-20
+
+### Added
+- WordPress site configuration module with comprehensive type definitions
+- WordPressApiService for fetching posts and media from WordPress REST APIs
+- ContentWriterService for generating markdown files with YAML frontmatter
+- Complete CLI interface with full, latest, clean, and stats commands
+- Centralized type definitions for better code organization
+- Comprehensive error handling with custom error classes
+- Support for both regular posts and media items with captions
+- Pagination support for large WordPress sites
+- Retry logic and timeout handling for API requests
+- File naming convention: [root_slug]-[post_id].md
+- YAML frontmatter generation with all WordPress metadata
+- Content directory management and statistics
+
+### Changed
+- N/A
+
+### Fixed
+- N/A
+
 ## [Unreleased]
 
 ### Added
