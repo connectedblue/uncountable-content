@@ -89,35 +89,11 @@ jobs:
             
             echo "Archive created: ${archive_file}"
             echo "Content: ${file_count} files (${total_size}), Archive: ${archive_size}"
+            echo "Note: Content changes have already been committed by package command"
           else
             echo "changes=false" >> $GITHUB_OUTPUT
             echo "No changes detected - no archive created"
           fi
-      
-      - name: Commit and push content changes
-        if: steps.changes.outputs.changes == 'true'
-        run: |
-          git add content/
-          timestamp=$(date +'%Y-%m-%d %H:%M:%S')
-          
-          if [ "${{ steps.changes.outputs.sync_type }}" = "full" ]; then
-            commit_msg="Full content sync: ${timestamp}
-            
-            - Complete WordPress content refresh (manual)
-            - Files: ${{ steps.changes.outputs.file_count }} markdown files
-            - Total size: ${{ steps.changes.outputs.total_size }}
-            - Archive: ${{ steps.changes.outputs.archive_name }} (${{ steps.changes.outputs.archive_size }})"
-          else
-            commit_msg="Incremental content sync: ${timestamp}
-            
-            - WordPress content updated (last ${{ steps.changes.outputs.days }} days)
-            - Files: ${{ steps.changes.outputs.file_count }} markdown files
-            - Total size: ${{ steps.changes.outputs.total_size }}
-            - Archive: ${{ steps.changes.outputs.archive_name }} (${{ steps.changes.outputs.archive_size }})"
-          fi
-          
-          git commit -m "${commit_msg}"
-          git push
       
       - name: Generate release information
         if: steps.changes.outputs.changes == 'true'
