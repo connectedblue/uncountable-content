@@ -1,6 +1,6 @@
 {
   "name": "wordpress-content-service",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "WordPress content fetching and markdown generation service",
   "main": "dist/index.js",
   "type": "module",
@@ -9,7 +9,8 @@
     "dev": "tsx src/index.ts",
     "full": "tsx src/index.ts full",
     "latest": "tsx src/index.ts latest",
-    "clean": "tsx src/index.ts clean"
+    "clean": "tsx src/index.ts clean",
+    "stats": "tsx src/index.ts stats"
   },
   "dependencies": {
     "commander": "^11.0.0",
