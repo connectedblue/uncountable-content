@@ -11,6 +11,7 @@
     "latest": "tsx src/index.ts latest",
     "clean": "tsx src/index.ts clean",
     "stats": "tsx src/index.ts stats",
+    "package": "tsx src/index.ts package",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",

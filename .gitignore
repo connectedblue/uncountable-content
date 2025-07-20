@@ -13,6 +13,16 @@ yarn-error.log*
 dist/
 build/
 
+# Content cache and archives (temporary files)
+content-cache/
+archives/
+*.tar.gz
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+
 # TypeScript
 *.tsbuildinfo
 

@@ -14,6 +14,9 @@
  */
 
 import { Command } from 'commander';
+import * as fs from 'fs/promises';
+import * as path from 'path';
+import { execSync } from 'child_process';
 import { WordPressApiService } from './services/wordpress-api.js';
 import { ContentWriterService } from './services/content-writer.js';
 import { WORDPRESS_SITES } from './config/sites.js';
@@ -209,6 +212,111 @@ export class WordPressContentCli {
   }
 
   /**
+   * Creates a release-ready package of the content
+   * 
+   * This method:
+   * 1. Validates that content exists and is up-to-date
+   * 2. Creates a clean directory structure in content-cache
+   * 3. Copies content to the cache directory
+   * 4. Creates a compressed archive for release
+   */
+  async executePackage(): Promise<void> {
+    console.log('📦 Creating content package for release...');
+    
+    try {
+      const contentDir = './content';
+      const cacheDir = './content-cache';
+      const archiveDir = './archives';
+      
+      // Check if content directory exists
+      try {
+        await fs.access(contentDir);
+      } catch {
+        console.error('❌ Content directory not found. Run "npm run full" first to generate content.');
+        process.exit(1);
+      }
+      
+      // Check if content is recent (within last 24 hours)
+      const contentStats = await fs.stat(contentDir);
+      const contentAge = Date.now() - contentStats.mtime.getTime();
+      const hoursOld = Math.floor(contentAge / (1000 * 60 * 60));
+      
+      if (hoursOld > 24) {
+        console.log(`⚠️  Content is ${hoursOld} hours old. Consider running "npm run latest" first.`);
+      }
+      
+      // Create cache and archive directories
+      await fs.mkdir(cacheDir, { recursive: true });
+      await fs.mkdir(archiveDir, { recursive: true });
+      
+      // Clean the cache directory
+      console.log('🧹 Cleaning cache directory...');
+      const cacheContents = await fs.readdir(cacheDir);
+      for (const item of cacheContents) {
+        const itemPath = path.join(cacheDir, item);
+        const stat = await fs.stat(itemPath);
+        if (stat.isDirectory()) {
+          await fs.rm(itemPath, { recursive: true });
+        } else {
+          await fs.unlink(itemPath);
+        }
+      }
+      
+      // Copy content to cache
+      console.log('📋 Copying content to cache...');
+      execSync(`cp -r ${contentDir}/* ${cacheDir}/`, { stdio: 'inherit' });
+      
+      // Add metadata file
+      const metadata = {
+        created: new Date().toISOString(),
+        version: process.env.npm_package_version || '1.0.0',
+        sites: WORDPRESS_SITES.map(site => ({
+          site_name: site.site_name,
+          wp_url: site.wp_url,
+          root_slug: site.root_slug,
+          category_slug: site.category_slug,
+          tag_slug: site.tag_slug
+        }))
+      };
+      
+      await fs.writeFile(
+        path.join(cacheDir, 'package-info.json'),
+        JSON.stringify(metadata, null, 2)
+      );
+      
+      // Create archive
+      const timestamp = new Date().toISOString().replace(/[:.]/g, '-').split('T')[0];
+      const archiveName = `wordpress-content-${timestamp}.tar.gz`;
+      const archivePath = path.join(archiveDir, archiveName);
+      
+      console.log(`🗜️  Creating archive: ${archiveName}`);
+      execSync(`tar -czf ${archivePath} -C ${cacheDir} .`, { stdio: 'inherit' });
+      
+      // Get archive size
+      const archiveStats = await fs.stat(archivePath);
+      const archiveSize = this.formatBytes(archiveStats.size);
+      
+      console.log('✅ Package created successfully!');
+      console.log(`📁 Archive: ${archivePath}`);
+      console.log(`📊 Size: ${archiveSize}`);
+      
+      // Clean up cache directory
+      console.log('🧹 Cleaning up cache directory...');
+      await fs.rm(cacheDir, { recursive: true, force: true });
+      
+      console.log('');
+      console.log('💡 Next steps:');
+      console.log('   1. Upload the archive to GitHub releases');
+      console.log('   2. Update version tags as needed');
+      console.log('   3. Test archive extraction in target environment');
+      
+    } catch (error) {
+      console.error('❌ Failed to create package:', error);
+      process.exit(1);
+    }
+  }
+
+  /**
    * Formats bytes to human-readable string
    */
   private formatBytes(bytes: number): string {
@@ -282,6 +390,14 @@ async function main() {
     .description('Show current content statistics')
     .action(async () => {
       await cli.executeStats();
+    });
+
+  // Package command
+  program
+    .command('package')
+    .description('Create a release-ready package of the content')
+    .action(async () => {
+      await cli.executePackage();
     });
 
   // Parse command line arguments

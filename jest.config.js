@@ -39,6 +39,9 @@ export default {
     '!src/test/**'
   ],
 
+  // Test setup files
+  setupFilesAfterEnv: ['<rootDir>/src/__tests__/setup.ts'],
+
   // Coverage thresholds - temporarily disabled to get tests working
   coverageThreshold: {
     global: {
