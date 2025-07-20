@@ -1,0 +1,33 @@
+{
+  "name": "wordpress-content-service",
+  "version": "1.0.0",
+  "description": "WordPress content fetching and markdown generation service",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "full": "tsx src/index.ts full",
+    "latest": "tsx src/index.ts latest",
+    "clean": "tsx src/index.ts clean"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "gray-matter": "^4.0.3",
+    "turndown": "^7.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "@types/turndown": "^5.0.1",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "keywords": [
+    "wordpress",
+    "content",
+    "markdown",
+    "cms"
+  ],
+  "author": "Blog System",
+  "license": "MIT"
+}
