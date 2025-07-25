@@ -105,11 +105,25 @@ tag: []
 
 
 
+<li><a href="https://thoughts.uncountable.uk/setting-investment-objectives/" data-type="post" data-id="1455">Setting Investment Objectives</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Executing the plan</h3>
+
+
+
+<ul class="wp-block-list">
 <li><a href="https://thoughts.uncountable.uk/choosing-an-investment-platform/" data-type="post" data-id="760">Choosing an investment platform</a></li>
 
 
 
-<li><a href="https://thoughts.uncountable.uk/setting-investment-objectives/" data-type="post" data-id="1455">Setting Investment Objectives</a></li>
+<li><a href="https://thoughts.uncountable.uk/invest-in-your-own-benchmark/" data-type="post" data-id="2616">Invest in your own benchmark</a></li>
+
+
+
+<li><a href="https://thoughts.uncountable.uk/plan-to-be-wealthy/" data-type="post" data-id="1844">Plan to be wealthy</a></li>
 </ul>
 
 			<br/><br/>
