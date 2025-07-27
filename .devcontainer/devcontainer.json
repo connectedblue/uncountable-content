@@ -1,0 +1,19 @@
+{
+  "name": "uncountable-content",
+  "service": "uncountable-content",
+  "workspaceFolder": "/workspace/uncountable-content",
+  "dockerComposeFile": [
+    "./docker-compose.yml"
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        
+      ],
+      "settings": {
+        "extensions.ignoreRecommendations": true
+      }
+    }
+  },
+  "postCreateCommand": "npm install"
+}
