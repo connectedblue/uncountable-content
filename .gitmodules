@@ -1,3 +1,0 @@
-[submodule ".devcontainer/shared"]
-	path = .devcontainer/shared
-	url = git@github.com:connectedblue/shared.git
