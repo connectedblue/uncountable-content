@@ -1,8 +1,8 @@
 ---
 id: 2433
-title: Now
+title: "Now  &#8211; Spring and Summer 2025"
 date: "2025-05-06T06:00:00"
-slug: now
+slug: now-4
 site: "https://thoughts.uncountable.uk"
 wp_url: "https://thoughts.uncountable.uk"
 root_slug: thoughts
@@ -14,7 +14,10 @@ category:
   - name: Various Things
     slug: various-things
     id: 1
-tag: []
+tag:
+  - name: Then
+    slug: then
+    id: 64
 ---
 
 
@@ -101,19 +104,3 @@ tag: []
 
 
 <p>You can follow along in <a href="https://diary.uncountable.uk/">my diary</a> to see how I actually get on with this list.</p>
-
-
-
-<h2 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--50)">Then</h2>
-
-
-
-<p>Now is now.</p>
-
-
-
-<p>Soon now will be then.</p>
-
-
-
-<p>You can then see <a href="https://thoughts.uncountable.uk/topic/then/">previous nows</a>.</p>
