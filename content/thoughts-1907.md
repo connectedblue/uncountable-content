@@ -14,7 +14,10 @@ category:
   - name: Life after work
     slug: life-after-work
     id: 8
-tag: []
+tag:
+  - name: Volunteer Responsibility Amnesty Day
+    slug: volunteer-responsibility-amnesty-day
+    id: 70
 ---
 
 

@@ -17,7 +17,10 @@ category:
   - name: Reply Posts
     slug: reply-posts
     id: 61
-tag: []
+tag:
+  - name: Volunteer Responsibility Amnesty Day
+    slug: volunteer-responsibility-amnesty-day
+    id: 70
 ---
 
 
