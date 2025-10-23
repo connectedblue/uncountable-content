@@ -33,7 +33,9 @@ tag: []
 
 
 
-
+</p>
+<p>The Artocalypse is an online community of artists and currently has a stunning expo to view.  Visit <a href="https://the.artocalypse.org/expo/2025-ink-small-expo-and-swap/">Ink Small &#038; Swap</a> to see all the amazing exhibits.</p>
+<p>
 
 
 
@@ -53,4 +55,4 @@ tag: []
 <p>And finally &#8230; here&#8217;s a couple of posts by other authors which I enjoyed recently from my own RSS feed:</p>
 
 
-<div class="feedzy-dae6391978e46b26b75ba179f91fdb80 feedzy-rss"><ul><li  style="padding: 15px 0 25px" class="rss_item"><span class="title"><a href="https://www.aspeckledtrout.com/al-fresco/" target="_blank" rel=" noopener">Al Fresco</a></span><div class="rss_content" style=""></div></li><li  style="padding: 15px 0 25px" class="rss_item"><span class="title"><a href="https://www.calishat.com/2025/07/11/temporary-obsessions-rss-feed-reader-updated-and-now-available/" target="_blank" rel=" noopener">Temporary Obsessions RSS Feed Reader Updated and Now Available</a></span><div class="rss_content" style=""></div></li></ul> </div><style type="text/css" media="all">.feedzy-rss .rss_item .rss_image{float:left;position:relative;border:none;text-decoration:none;max-width:100%}.feedzy-rss .rss_item .rss_image span{display:inline-block;position:absolute;width:100%;height:100%;background-position:50%;background-size:cover}.feedzy-rss .rss_item .rss_image{margin:.3em 1em 0 0;content-visibility:auto}.feedzy-rss ul{list-style:none}.feedzy-rss ul li{display:inline-block}</style>
+<div class="feedzy-dae6391978e46b26b75ba179f91fdb80 feedzy-rss"><ul><li  style="padding: 15px 0 25px" class="rss_item"><span class="title"><a href="https://html-chunder.neocities.org/blog/practice-projects/" target="_blank" rel=" noopener">Practice projects</a></span><div class="rss_content" style=""></div></li><li  style="padding: 15px 0 25px" class="rss_item"><span class="title"><a href="https://optimisticmusings.com/brain-dump-at-starbucks/" target="_blank" rel=" noopener">Brain Dump at Starbucks: Life, Sleep, and Scattered Thoughts</a></span><div class="rss_content" style=""></div></li></ul> </div><style type="text/css" media="all">.feedzy-rss .rss_item .rss_image{float:left;position:relative;border:none;text-decoration:none;max-width:100%}.feedzy-rss .rss_item .rss_image span{display:inline-block;position:absolute;width:100%;height:100%;background-position:50%;background-size:cover}.feedzy-rss .rss_item .rss_image{margin:.3em 1em 0 0;content-visibility:auto}.feedzy-rss ul{list-style:none}.feedzy-rss ul li{display:inline-block}</style>
