@@ -11,9 +11,6 @@ featured_media_url: "https://media.uncountable.uk/diary/2025/10/27191819/IMG2025
 featured_media_srcset: "https://media.uncountable.uk/diary/2025/10/27191819/IMG20251027093348-300x169.webp 300w, https://media.uncountable.uk/diary/2025/10/27191819/IMG20251027093348-1024x576.webp 1024w, https://media.uncountable.uk/diary/2025/10/27191819/IMG20251027093348-150x150.webp 150w, https://media.uncountable.uk/diary/2025/10/27191819/IMG20251027093348-640x360.webp 640w, https://media.uncountable.uk/diary/2025/10/27191819/IMG20251027093348.webp 1959w"
 type: post
 category:
-  - name: Glorious Grasslands
-    slug: glorious-grasslands
-    id: 5
   - name: Just Life
     slug: just-life
     id: 1
