@@ -175,13 +175,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Archive cleanup
+      
+      - name: Clean up old releases
         if: steps.changes.outputs.changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Cleaning up old archive files..."
-          # Keep only the 5 most recent archives to prevent storage bloat
-          ls -t archives/wordpress-content-*.tar.gz | tail -n +6 | xargs -r rm -f
-          echo "Archive cleanup completed"
+          echo "Cleaning up old releases..."
+          
+          # 1. List up to 1000 releases
+          # 2. Sort by creation date descending (Newest first)
+          # 3. Use jq to skip the first 5 (.[5:]) and get the tagName of the rest
+          gh release list --limit 1000 --json tagName,createdAt --order desc --sort createdAt \
+            | jq -r '.[5:] | .[].tagName' \
+            | while read tag; do
+              echo "Deleting release and associated tag: ${tag}"
+              gh release delete "${tag}" --cleanup-tag --yes
+            done
+            
+          echo "Release cleanup completed"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Workflow summary
         run: |
