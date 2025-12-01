@@ -183,10 +183,9 @@ jobs:
         run: |
           echo "Cleaning up old releases..."
           
-          # 1. List up to 1000 releases
-          # 2. Sort by creation date descending (Newest first)
-          # 3. Use jq to skip the first 5 (.[5:]) and get the tagName of the rest
-          gh release list --limit 1000 --json tagName,createdAt --order desc --sort createdAt \
+          # gh release list is already sorted by date (newest first) by default.
+          # We just need to remove the invalid '--sort' flag.
+          gh release list --limit 1000 --json tagName --order desc \
             | jq -r '.[5:] | .[].tagName' \
             | while read tag; do
               echo "Deleting release and associated tag: ${tag}"
