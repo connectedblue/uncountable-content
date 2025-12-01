@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--7">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--9">
 <p>After breaking it all down, it&#8217;s become clear to me that there is no obvious winner, nor loser.</p>
 
 

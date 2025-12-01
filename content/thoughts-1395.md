@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--5">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--7">
 <p>Publishing any physical media, regardless of quality, takes a lot of time and effort, particularly as the number of people involved increases. <strong>How might we make the process as simple and frictionless as possible for people contributing and curating?</strong></p>
 
 

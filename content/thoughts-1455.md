@@ -137,11 +137,13 @@ tag:
 			<div class="series-nav-area">
 			   
 				<nav class="series-nav">
-				<p> This is the last article in a <a href="/a-reading-list-for-investing">series on investing</a>. I hope you found it valuable and enjoyed reading</p>
+				<p> This article is part of a <a href="/a-reading-list-for-investing">series on investing</a>.</p>
 				<ul> 
-				   <li></li>
 				   <li>
-		    Previous: <a href="/choosing-an-investment-platform">Choosing an investment platform</a>
+		    Next up: <a href="/choosing-an-investment-platform">Choosing an investment platform</a>
+		</li>
+				   <li>
+		    Previous: <a href="/being-passive-aggressive">Being passive aggressive</a>
 		</li>
 				</ul>
 				</nav>

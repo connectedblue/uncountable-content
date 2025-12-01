@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--9">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--11">
 <p>We have one-hundred-seven participating blogs and fifty-nine of them are completely new to the Blaugust event. This means our community is growing, but also as it grows some of the collective cultural tenets of the community are changing a bit. Right or wrong this was an event born out of the MMORPG Blogging community, and most of us old-timers have created blogs where we ramble on about our thoughts regarding the games we are playing and the new games on the horizon that we find ourselves pining for.</p>
 
 

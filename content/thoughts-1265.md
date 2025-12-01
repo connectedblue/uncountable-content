@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--15">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--17">
 <p>For a while it felt weird stopping by the gas station or grocery store looking like a 1980&#8217;s used car salesman but next thing I know I&#8217;ve just been going through the motions for the last two years and now I don&#8217;t really think about it. When I do, I&#8217;m like eh, at least I look like I have my shit together so who cares.</p>
 
 

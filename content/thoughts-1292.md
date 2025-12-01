@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--5">
 <p>AI is not currently providing many benefits for many people — sure it’s helping some people write email more efficiently, and it is assisting some programmers. But most people don’t use AI, and don’t have a use for AI. All AI is doing for them is putting more spam and fake news into their feeds, and making search results worse.</p>
 
 

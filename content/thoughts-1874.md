@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--19">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--21">
 <p>I just want a way to combine my visual, writing, and musical hobbies all into one. I&#8217;m thinking I layer piano diddles that I do (just experimenting, no piece in general playing around) over clips of whatever subject I want, like above, and maybe layering voice or text over it. Or even better yet, no words in the actual video, and I annotate the contents of the video in a blog post that&#8217;s published with it?</p>
 </blockquote>
 

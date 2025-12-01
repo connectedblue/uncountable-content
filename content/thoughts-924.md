@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--35">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--37">
 <p>These days, nearly everyone with a smartphone seems to get their news from news apps and social media. Algorithms are designed to get them glued to the screen and continually outraged about whatever topic gives the media outlets and app developers more engagement, more clicks, and by extension, higher ratings and ad revenues.</p>
 
 

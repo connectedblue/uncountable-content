@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--29">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--31">
 <p>During the couple of years that I tried to be retired, I had more free time than I&#8217;d ever had before. With no job to go to and a wife who was still heading to work each day, I had hours to do what I wanted, except I didn&#8217;t know what I wanted. I read some books from the library, watched a few movies from my streaming queues, and went for walks on occasion. However, I lacked a sense of purpose. I ended up sleeping a lot, feeling sad and lonely. It was not a pleasant experience.</p>
 </blockquote>
 

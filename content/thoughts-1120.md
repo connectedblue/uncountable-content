@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--25">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--27">
 <p>When writing blog posts for this website, I usually have an idea for a post—usually a single line of insight or thought that I want to explore—and this is all I need to start writing. I put that line in the header and just start pouring everything out of my head. I don’t plan; I just write and eventually <a href="https://matanabudy.com/should-i-post-this">just post it</a>. This is bottom-up writing.</p>
 
 

@@ -25,7 +25,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--5">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--13">
 <p>If you want to do the heavy lifting, tips are free… if you want us to lift, <a href="https://www.linkedin.com/company/sharktooth-press/">Sharktooth Press</a> is my imprint that will charge you massive amounts of cash for a legacy 😀😀😀 Seriously, though, that’s really the whole market for the imprint… legacy.<br><br>Read your blog post.. YEEEESSSSS!!!! 1000 times, yes. I think about that stuff, too and you’ve hit spot on. Text files and the medium they are stored on… I’ve got SyQuest cartridges, CD-ROMs, ZIP Drives… 5.25 floppies… none of that is really readable anymore so I keep shifting to the latest medium… these days it’s a set of 2T flash drives, redundant storage because … failure… paper burns though, so even books aren’t safe…<br><br>A good book to read if you really want to be terrified about archiving human knowledge… Double Fold …</p>
 </blockquote>
 

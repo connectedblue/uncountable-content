@@ -18,8 +18,8 @@ tag:
   - name: Riverfly
     slug: riverfly
     id: 43
-  - name: Uley Trees and Grasslands
-    slug: uley-trees-and-grasslands
+  - name: Uley Trees and Meadows
+    slug: uley-trees-and-meadows
     id: 29
 ---
 

@@ -25,7 +25,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--5">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--7">
 <p>The web was initially <a href="https://www.ietf.org/rfc/rfc1866.txt">designed</a> for writers. Styling, links, paragraphs, titles (at all levels). The ability to edit. No character limits. That&#8217;s what we had to work with when we started blogging in the mid-late 90s. </p>
 
 

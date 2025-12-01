@@ -25,7 +25,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--41">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--5">
 <p><strong>It is a community of independent and personal websites</strong>&nbsp;connected by&nbsp;<a href="https://indieweb.org/building_blocks">open standards</a>&nbsp;and based on the&nbsp;<a href="https://indieweb.org/principles">principles</a>&nbsp;of: owning your domain and using it as your primary online identity, publishing on your own site first (optionally elsewhere), and owning your content.</p>
 </blockquote>
 

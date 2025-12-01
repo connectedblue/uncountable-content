@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--23">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--25">
 <p>Since quitting traditional social media altogether, I have regained so much time in my day where I can spend on other meaningful endeavours like working on my career, learning a new language, or even starting a blog! Where I used to spend hours in a day just aimlessly scrolling and remembering none of it even five minutes later, I was now granted with an extra hour or two a day to actually spend my time on things that make for a more fulfilling life.</p>
 </blockquote>
 

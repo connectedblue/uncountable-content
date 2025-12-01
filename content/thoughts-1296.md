@@ -28,7 +28,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--11">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--13">
 <p>People generally call feeds “RSS Feeds” but usually they aren’t specifically talking about RSS. RSS isn’t the only, or even the best format. Using a standardized format is critical to your feed being understood by the widest variety of readers and search engines.</p>
 
 

@@ -29,7 +29,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--37">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--1">
 <p>For me, the act of sending a webmention is not the important or valuable part. That’s equivalent to clicking the&nbsp;<strong>Send email&nbsp;</strong>button. The intention comes through the writing of a blog post and participation in discussion.</p>
 
 

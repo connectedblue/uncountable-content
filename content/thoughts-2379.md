@@ -60,15 +60,15 @@ tag: []
 					<label for="gwolle_gb_b1208633175c4d88ada581c84247769b-1" class="text-primary">Do not touch this</label>
 				</div>
 				<div class="input">
-					<input value="74831" type="text" id="gwolle_gb_d01c50e70410280f972ac309f646e3ce-1" name="gwolle_gb_d01c50e70410280f972ac309f646e3ce" class="gwolle_gb_d01c50e70410280f972ac309f646e3ce" style="transform: translateY(10000px);" />
-					<input value="74831" type="text"id="gwolle_gb_b1208633175c4d88ada581c84247769b-1" name="gwolle_gb_b1208633175c4d88ada581c84247769b" class="gwolle_gb_b1208633175c4d88ada581c84247769b" style="transform: translateY(10000px);" />
+					<input value="27916" type="text" id="gwolle_gb_d01c50e70410280f972ac309f646e3ce-1" name="gwolle_gb_d01c50e70410280f972ac309f646e3ce" class="gwolle_gb_d01c50e70410280f972ac309f646e3ce" style="transform: translateY(10000px);" />
+					<input value="27916" type="text"id="gwolle_gb_b1208633175c4d88ada581c84247769b-1" name="gwolle_gb_b1208633175c4d88ada581c84247769b" class="gwolle_gb_b1208633175c4d88ada581c84247769b" style="transform: translateY(10000px);" />
 				</div>
 				<div class="clearBoth"></div>
 			</div><div class="gwolle_gb_content">
 				<div class="label"><label for="gwolle_gb_content-1" class="text-info">Why did you start this website? <span class="required">*</span></label></div>
 				<div class="input"><textarea id="gwolle_gb_content-1" name="gwolle_gb_content" class="gwolle_gb_content wp-exclude-emoji" required ></textarea></div>
 					<div class="clearBoth">&nbsp;</div>
-				</div><input type="hidden" class="gwolle_gb_0be79fbffa830429353742dcf167a296" id="gwolle_gb_0be79fbffa830429353742dcf167a296-1" name="gwolle_gb_0be79fbffa830429353742dcf167a296" value="21a68fca34" />
+				</div><input type="hidden" class="gwolle_gb_0be79fbffa830429353742dcf167a296" id="gwolle_gb_0be79fbffa830429353742dcf167a296-1" name="gwolle_gb_0be79fbffa830429353742dcf167a296" value="1b34ab7d04" />
 			<div class="gwolle_gb_messages_bottom_container"></div>
 
 			<noscript><div class="no-js">Warning: This form can only be used if JavaScript is enabled in your browser.</div></noscript>
@@ -86,8 +86,25 @@ tag: []
 			<div class="gwolle_gb_notice">
 				Thank you.  I&#039;ll have to manually review first to publish your entry.
 			</div></form><div class="gwolle-gb-read gwolle-gb-entries-list" data-book_id="202504" data-page_id="1">
-		<div id="gwolle-gb-total" class="gwolle-gb-total">11 entries.</div><!-- Gwolle-GB Entry: Default Template Loaded -->
-				<div class="gb-entry gb-entry_70 gb-entry-count_1 gwolle_gb_uneven gwolle-gb-uneven gwolle-gb-first" id="gb-entry_70" data-entry_id="70">
+		<div id="gwolle-gb-total" class="gwolle-gb-total">12 entries.</div><!-- Gwolle-GB Entry: Default Template Loaded -->
+				<div class="gb-entry gb-entry_78 gb-entry-count_1 gwolle_gb_uneven gwolle-gb-uneven gwolle-gb-first" id="gb-entry_78" data-entry_id="78">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name">s
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 8 Sep</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 8:12 pm</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">I used to like exploring the internet, and then I stopped liking it. I wanted to be a part of creating the kind of internet I want to see.
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_70 gb-entry-count_2 gwolle_gb_even gwolle-gb-even" id="gb-entry_70" data-entry_id="70">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://jamesg.blog" target="_blank" rel="nofollow noopener noreferrer"
@@ -111,7 +128,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_66 gb-entry-count_2 gwolle_gb_even gwolle-gb-even" id="gb-entry_66" data-entry_id="66">
+			<div class="gb-entry gb-entry_66 gb-entry-count_3 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_66" data-entry_id="66">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://tanzi-media.com/" target="_blank" rel="nofollow noopener noreferrer"
@@ -129,7 +146,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_62 gb-entry-count_3 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_62" data-entry_id="62">
+			<div class="gb-entry gb-entry_62 gb-entry-count_4 gwolle_gb_even gwolle-gb-even" id="gb-entry_62" data-entry_id="62">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://marisabel.nl" target="_blank" rel="nofollow noopener noreferrer"
@@ -147,7 +164,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_61 gb-entry-count_4 gwolle_gb_even gwolle-gb-even" id="gb-entry_61" data-entry_id="61">
+			<div class="gb-entry gb-entry_61 gb-entry-count_5 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_61" data-entry_id="61">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://splendide-mendax.com/" target="_blank" rel="nofollow noopener noreferrer"
@@ -165,7 +182,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_60 gb-entry-count_5 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_60" data-entry_id="60">
+			<div class="gb-entry gb-entry_60 gb-entry-count_6 gwolle_gb_even gwolle-gb-even" id="gb-entry_60" data-entry_id="60">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://blog.realcreate.studio" target="_blank" rel="nofollow noopener noreferrer"
@@ -183,7 +200,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_59 gb-entry-count_6 gwolle_gb_even gwolle-gb-even" id="gb-entry_59" data-entry_id="59">
+			<div class="gb-entry gb-entry_59 gb-entry-count_7 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_59" data-entry_id="59">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://iamkimberly.org" target="_blank" rel="nofollow noopener noreferrer"
@@ -201,7 +218,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_58 gb-entry-count_7 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_58" data-entry_id="58">
+			<div class="gb-entry gb-entry_58 gb-entry-count_8 gwolle_gb_even gwolle-gb-even" id="gb-entry_58" data-entry_id="58">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://www.lameazoid.com" target="_blank" rel="nofollow noopener noreferrer"
@@ -219,7 +236,7 @@ These are the abridged reasons why I started my website, but another question no
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_57 gb-entry-count_8 gwolle_gb_even gwolle-gb-even" id="gb-entry_57" data-entry_id="57">
+			<div class="gb-entry gb-entry_57 gb-entry-count_9 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_57" data-entry_id="57">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://hamatti.org" target="_blank" rel="nofollow noopener noreferrer"
@@ -239,7 +256,7 @@ My current website also serves as a &#034;one-stop shop&#034; for everything I d
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_56 gb-entry-count_9 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_56" data-entry_id="56">
+			<div class="gb-entry gb-entry_56 gb-entry-count_10 gwolle_gb_even gwolle-gb-even" id="gb-entry_56" data-entry_id="56">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://html-chunder.neocities.org/" target="_blank" rel="nofollow noopener noreferrer"
@@ -257,7 +274,7 @@ My current website also serves as a &#034;one-stop shop&#034; for everything I d
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_55 gb-entry-count_10 gwolle_gb_even gwolle-gb-even" id="gb-entry_55" data-entry_id="55">
+			<div class="gb-entry gb-entry_55 gb-entry-count_11 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_55" data-entry_id="55">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://thoughts.uncountable.uk" target="_blank" rel="nofollow noopener noreferrer"
@@ -277,7 +294,7 @@ That would have disrupted the flow of the diary, so this was a plain text blog t
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_54 gb-entry-count_11 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_54" data-entry_id="54">
+			<div class="gb-entry gb-entry_54 gb-entry-count_12 gwolle_gb_even gwolle-gb-even" id="gb-entry_54" data-entry_id="54">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://thoughts.uncountable.uk" target="_blank" rel="nofollow noopener noreferrer"

@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--19">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--21">
 <p>I don&#8217;t look down on gamers or gaming in any way. The networks engineers I work with, all of whom I respect for their giant brains, all play computer games. I&#8217;ve always been kind of jealous that this whole segment of society, the people who should be in my tribe for our love of technology, have a love and a passion for something that just totally mystifies me. I&#8217;m almost 60 and I know their are gamers older than me. I&#8217;ve seen some of them on YouTube. I just feel like that if the urge to play hasn&#8217;t grabbed me by now that it never will. I miss not being able to talk to people about something so many find pleasure in, but it is what it is.</p>
 </blockquote>
 

@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--17">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--19">
 <p>“But, being on LinkedIn makes networking with likeminded people easier,” replied the Twitter member (in words to that effect). He may have been right. If there were enough likeminded people there, perhaps someone could generate a few leads. But, I don’t know. LinkedIn is LinkedIn. It’s not for everyone. But then again, LinkedIn could almost be considered a blogging platform. All you need do is figure out LinkedIn-speak, which includes talking yourself up, way up, and you’re set.</p>
 </blockquote>
 

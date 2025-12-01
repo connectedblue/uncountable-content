@@ -63,15 +63,15 @@ tag: []
 					<label for="gwolle_gb_b1208633175c4d88ada581c84247769b-1" class="text-primary">Do not touch this</label>
 				</div>
 				<div class="input">
-					<input value="14400" type="text" id="gwolle_gb_d01c50e70410280f972ac309f646e3ce-1" name="gwolle_gb_d01c50e70410280f972ac309f646e3ce" class="gwolle_gb_d01c50e70410280f972ac309f646e3ce" style="transform: translateY(10000px);" />
-					<input value="14400" type="text"id="gwolle_gb_b1208633175c4d88ada581c84247769b-1" name="gwolle_gb_b1208633175c4d88ada581c84247769b" class="gwolle_gb_b1208633175c4d88ada581c84247769b" style="transform: translateY(10000px);" />
+					<input value="38142" type="text" id="gwolle_gb_d01c50e70410280f972ac309f646e3ce-1" name="gwolle_gb_d01c50e70410280f972ac309f646e3ce" class="gwolle_gb_d01c50e70410280f972ac309f646e3ce" style="transform: translateY(10000px);" />
+					<input value="38142" type="text"id="gwolle_gb_b1208633175c4d88ada581c84247769b-1" name="gwolle_gb_b1208633175c4d88ada581c84247769b" class="gwolle_gb_b1208633175c4d88ada581c84247769b" style="transform: translateY(10000px);" />
 				</div>
 				<div class="clearBoth"></div>
 			</div><div class="gwolle_gb_content">
 				<div class="label"><label for="gwolle_gb_content-1" class="text-info">Guestbook entry <span class="required">*</span></label></div>
 				<div class="input"><textarea id="gwolle_gb_content-1" name="gwolle_gb_content" class="gwolle_gb_content wp-exclude-emoji" required ></textarea></div>
 					<div class="clearBoth">&nbsp;</div>
-				</div><input type="hidden" class="gwolle_gb_0be79fbffa830429353742dcf167a296" id="gwolle_gb_0be79fbffa830429353742dcf167a296-1" name="gwolle_gb_0be79fbffa830429353742dcf167a296" value="21a68fca34" />
+				</div><input type="hidden" class="gwolle_gb_0be79fbffa830429353742dcf167a296" id="gwolle_gb_0be79fbffa830429353742dcf167a296-1" name="gwolle_gb_0be79fbffa830429353742dcf167a296" value="1b34ab7d04" />
 			<div class="gwolle_gb_messages_bottom_container"></div>
 
 			<noscript><div class="no-js">Warning: This form can only be used if JavaScript is enabled in your browser.</div></noscript>
@@ -92,8 +92,136 @@ tag: []
 				<div class="page-navigation">
 					<span class="screen-reader-text">Guestbook list navigation</span><span class="page-numbers current">1</span><a href="https://thoughts.uncountable.uk/guest-book/?pageNum=2" title="Page 2">2</a><a href="https://thoughts.uncountable.uk/guest-book/?pageNum=3" title="Page 3">3</a><a href="https://thoughts.uncountable.uk/guest-book/?pageNum=2" title="Next page" rel="next">&rarr;</a></div>
 		<div class="gwolle-gb-read gwolle-gb-entries-list" data-book_id="1" data-page_id="1">
-		<div id="gwolle-gb-total" class="gwolle-gb-total">49 entries.</div><!-- Gwolle-GB Entry: Default Template Loaded -->
-				<div class="gb-entry gb-entry_74 gb-entry-count_1 gwolle_gb_uneven gwolle-gb-uneven gwolle-gb-first" id="gb-entry_74" data-entry_id="74">
+		<div id="gwolle-gb-total" class="gwolle-gb-total">56 entries.</div><!-- Gwolle-GB Entry: Default Template Loaded -->
+				<div class="gb-entry gb-entry_83 gb-entry-count_1 gwolle_gb_uneven gwolle-gb-uneven gwolle-gb-first" id="gb-entry_83" data-entry_id="83">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name"><a href="https://blahg.online/" target="_blank" rel="nofollow noopener noreferrer"
+							title="Visit the website of kelsey: https://blahg.online/">kelsey</a>
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 16 Nov</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 12:23 pm</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">hi there—thank you so much for your message, I really appreciate it. I’m enjoying reading through your posts about time and money. I quit my job at the end of January and have been selling my art online/vending at craft fairs since then. I will likely return to a conventional job to sustain my lifestyle, but I appreciated your writing on developing a structure, purpose, and identity while not working. I am grateful for the time I have now for things I’m typically too stressed out to ponder while employed.
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_82 gb-entry-count_2 gwolle_gb_even gwolle-gb-even" id="gb-entry_82" data-entry_id="82">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name"><a href="https://www.calishat.com/" target="_blank" rel="nofollow noopener noreferrer"
+							title="Visit the website of Tara Calishain: https://www.calishat.com/">Tara Calishain</a>
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 5 Oct</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 10:43 am</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">Hey, thanks for linking to my blog post about RSSForager. Appreciate it!
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_81 gb-entry-count_3 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_81" data-entry_id="81">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name">Peteb
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 18 Sep</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 2:42 pm</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">Hi there.<br />
+Sorry to see you gonned from ii forums. Your shared experience and insightful work on future planning has been a real benefit to me. I will keep up with your blog.<br />
+All the best.
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_80 gb-entry-count_4 gwolle_gb_even gwolle-gb-even" id="gb-entry_80" data-entry_id="80">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name">Silent Jim
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 16 Sep</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 5:59 pm</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">Never made it to a retirement group call, understand you’re no longer on II Community.  Wanted to express some appreciation for your posts and blogs.  They’ve been very helpful for me and hopefully will continue to be so.  Best wishes.
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_77 gb-entry-count_5 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_77" data-entry_id="77">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name"><a href="https://manuelmoreale.com" target="_blank" rel="nofollow noopener noreferrer"
+							title="Visit the website of Manu: https://manuelmoreale.com">Manu</a>
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 6 Sep</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 7:58 am</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">I found my way here thanks to the internet phone book and I&#039;m a sucker for guestbooks so I&#039;m not gonna pass on the opportunity to sign one!<br />
+<br />
+Love that you&#039;re keeping the blog minimal. Keep it up!
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_76 gb-entry-count_6 gwolle_gb_even gwolle-gb-even" id="gb-entry_76" data-entry_id="76">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name">DonadK (AKA DeeDee[ii community)
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 28 Aug</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 12:14 pm</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">Hi, its great following you both on this blog page and II community.  Where have you went on IIcommunity&gt; have you stopped commenting/ being viewable or have you moved to another platform such as Innvest engine...  <br />
+<br />
+Missing you :(
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_75 gb-entry-count_7 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_75" data-entry_id="75">
+				<article>
+					<div class="gb-author-info">
+						<span class="gb-author-name">Nick W
+						</span>
+						<span class="gb-datetime">
+							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 25 Jul</span>
+							</span><span class="gb-time">
+									<span class="gb-time-at-text"> at</span>
+									<span class="gb-time-text"> 5:03 pm</span>
+								</span>
+						</span> 
+					</div>
+					<div class="gb-entry-content">Its taken me 20 years and an enforced bit of sitting at home time to make me figure out how to build a website on github. Thank you Chris for your wise words and inspiration to get me started.  And I use this site as my guiding light.  Meaning I am trying to train my copilot to build something as nice as this.  I will be ready to share in about another 20 years.  Hopefully my enforced home time will be over by then.
+					</div>
+				</article>
+			</div>
+			<div class="gb-entry gb-entry_74 gb-entry-count_8 gwolle_gb_even gwolle-gb-even" id="gb-entry_74" data-entry_id="74">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">Andrea
@@ -110,7 +238,7 @@ tag: []
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_73 gb-entry-count_2 gwolle_gb_even gwolle-gb-even" id="gb-entry_73" data-entry_id="73">
+			<div class="gb-entry gb-entry_73 gb-entry-count_9 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_73" data-entry_id="73">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://tala.bearblog.dev/" target="_blank" rel="nofollow noopener noreferrer"
@@ -128,7 +256,7 @@ tag: []
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_72 gb-entry-count_3 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_72" data-entry_id="72">
+			<div class="gb-entry gb-entry_72 gb-entry-count_10 gwolle_gb_even gwolle-gb-even" id="gb-entry_72" data-entry_id="72">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">Dean
@@ -145,7 +273,7 @@ tag: []
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_71 gb-entry-count_4 gwolle_gb_even gwolle-gb-even" id="gb-entry_71" data-entry_id="71">
+			<div class="gb-entry gb-entry_71 gb-entry-count_11 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_71" data-entry_id="71">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://angrybunnyman.com" target="_blank" rel="nofollow noopener noreferrer"
@@ -163,7 +291,7 @@ tag: []
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_69 gb-entry-count_5 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_69" data-entry_id="69">
+			<div class="gb-entry gb-entry_69 gb-entry-count_12 gwolle_gb_even gwolle-gb-even" id="gb-entry_69" data-entry_id="69">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://www.shannonkay.com" target="_blank" rel="nofollow noopener noreferrer"
@@ -183,7 +311,7 @@ Your blog is really interesting, I&#039;ll have to spend some more time reading 
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_68 gb-entry-count_6 gwolle_gb_even gwolle-gb-even" id="gb-entry_68" data-entry_id="68">
+			<div class="gb-entry gb-entry_68 gb-entry-count_13 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_68" data-entry_id="68">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://rosipov.com" target="_blank" rel="nofollow noopener noreferrer"
@@ -201,7 +329,7 @@ Your blog is really interesting, I&#039;ll have to spend some more time reading 
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_67 gb-entry-count_7 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_67" data-entry_id="67">
+			<div class="gb-entry gb-entry_67 gb-entry-count_14 gwolle_gb_even gwolle-gb-even" id="gb-entry_67" data-entry_id="67">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">Jabnor
@@ -224,7 +352,7 @@ Thanks, again, for making all this available to the rest of us.
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_65 gb-entry-count_8 gwolle_gb_even gwolle-gb-even" id="gb-entry_65" data-entry_id="65">
+			<div class="gb-entry gb-entry_65 gb-entry-count_15 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_65" data-entry_id="65">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">Martin
@@ -241,7 +369,7 @@ Thanks, again, for making all this available to the rest of us.
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_64 gb-entry-count_9 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_64" data-entry_id="64">
+			<div class="gb-entry gb-entry_64 gb-entry-count_16 gwolle_gb_even gwolle-gb-even" id="gb-entry_64" data-entry_id="64">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://sunnskulldream.ink" target="_blank" rel="nofollow noopener noreferrer"
@@ -259,7 +387,7 @@ Thanks, again, for making all this available to the rest of us.
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_63 gb-entry-count_10 gwolle_gb_even gwolle-gb-even" id="gb-entry_63" data-entry_id="63">
+			<div class="gb-entry gb-entry_63 gb-entry-count_17 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_63" data-entry_id="63">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">Woollyguru
@@ -280,7 +408,7 @@ Thank you!
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_48 gb-entry-count_11 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_48" data-entry_id="48">
+			<div class="gb-entry gb-entry_48 gb-entry-count_18 gwolle_gb_even gwolle-gb-even" id="gb-entry_48" data-entry_id="48">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">BikerBear
@@ -297,7 +425,7 @@ Thank you!
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_47 gb-entry-count_12 gwolle_gb_even gwolle-gb-even" id="gb-entry_47" data-entry_id="47">
+			<div class="gb-entry gb-entry_47 gb-entry-count_19 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_47" data-entry_id="47">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name"><a href="https://www.rohit.online" target="_blank" rel="nofollow noopener noreferrer"
@@ -315,7 +443,7 @@ Thank you!
 					</div>
 				</article>
 			</div>
-			<div class="gb-entry gb-entry_46 gb-entry-count_13 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_46" data-entry_id="46">
+			<div class="gb-entry gb-entry_46 gb-entry-count_20 gwolle_gb_even gwolle-gb-even" id="gb-entry_46" data-entry_id="46">
 				<article>
 					<div class="gb-author-info">
 						<span class="gb-author-name">HelenaMay
@@ -329,141 +457,6 @@ Thank you!
 						</span> 
 					</div>
 					<div class="gb-entry-content">Hi. Interesting blog. A couple of thoughts. I contribute the max into my ISA in April to get maximum tax efficiency. I am also taking money from my pension and recycling it into my and my husband’s ISAs now that the IHT treatment of DC pensions has changed. Will you do that too?
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_45 gb-entry-count_14 gwolle_gb_even gwolle-gb-even" id="gb-entry_45" data-entry_id="45">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name">Telisa
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 28 Feb</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 12:33 am</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">The sands too fine for numbers
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_44 gb-entry-count_15 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_44" data-entry_id="44">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name"><a href="https://rishikeshs.com" target="_blank" rel="nofollow noopener noreferrer"
-							title="Visit the website of Rishikesh Sreehari: https://rishikeshs.com">Rishikesh Sreehari</a>
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 25 Feb</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 12:33 pm</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">Love your blog and perspectives!
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_43 gb-entry-count_16 gwolle_gb_even gwolle-gb-even" id="gb-entry_43" data-entry_id="43">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name"><a href="https://folkmoss.bearblog.dev" target="_blank" rel="nofollow noopener noreferrer"
-							title="Visit the website of folkmoss: https://folkmoss.bearblog.dev">folkmoss</a>
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 4 Feb</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 10:11 pm</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">Hi there. Thanks for dropping by on my blog! I really enjoyed your post about libraries and rss  btw. I&#039;ve worked in community libraries when I was in college and I have an immense attachment to the subject. Adding you to my feed list. :)
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_42 gb-entry-count_17 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_42" data-entry_id="42">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name">TUCKLOUKAKA
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 24 Jan</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 3:16 pm</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">Very Interesting retirement Story. <br />
-<br />
-I kind of semi—-retired at the age of 47 —- too early. But as a hobby / pass time I ended up running 3 businesses from my Home Office - One being a retail Pharmacy. Actually I am a Civil Engineer so also have a Land Asset sales business. It’s just a hobby. Not very outdoor type except love to go on walks.
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_41 gb-entry-count_18 gwolle_gb_even gwolle-gb-even" id="gb-entry_41" data-entry_id="41">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name"><a href="https://dkg.mohinika.com" target="_blank" rel="nofollow noopener noreferrer"
-							title="Visit the website of Hiro Daryanani: https://dkg.mohinika.com">Hiro Daryanani</a>
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 22 Jan</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 9:15 am</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">wow - your site is such a find! Would love to connect at some point or ping me if/when you see this (hirodary.bsky.social). Came here from your post on ii community. <br />
-<br />
-I’m 54 but turning that number soon. Looks like you are older and waaay wiser then me ;-)<br />
-<br />
-Also turning the page on paid employment (currently on unpaid sabbatical) so on “retirement” though clearly that is a negative word. Read about ikigai after being misled by that venn diagram. So have you found yours? (Looks like you have)<br />
-<br />
-Also researching asset allocations for 2025 and if i move on from 60:40 to introduce gold / commodities or heck something else
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_40 gb-entry-count_19 gwolle_gb_uneven gwolle-gb-uneven" id="gb-entry_40" data-entry_id="40">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name">Sajid Saiyed
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 20 Jan</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 4:51 pm</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">I am not quite in your shoes, but I have completed 57 and have stopped working last year. I was an IT consultant, and worked primarily as a DBA. Life has challenged me a quite a few times, but has treated me well in general. I have 3 kids, 2 of them married and third is in Uni. I would like an alternative career/ something good to return back to community, but not quite sure, what. Any ideas happy to consider.
-					</div>
-				</article>
-			</div>
-			<div class="gb-entry gb-entry_39 gb-entry-count_20 gwolle_gb_even gwolle-gb-even" id="gb-entry_39" data-entry_id="39">
-				<article>
-					<div class="gb-author-info">
-						<span class="gb-author-name">Anthony Dutton (ADC)
-						</span>
-						<span class="gb-datetime">
-							<span class="gb-date"><span class="gb-date-wrote-text"> wrote on</span><span class="gb-date-text"> 14 Jan</span>
-							</span><span class="gb-time">
-									<span class="gb-time-at-text"> at</span>
-									<span class="gb-time-text"> 12:28 pm</span>
-								</span>
-						</span> 
-					</div>
-					<div class="gb-entry-content">Unacountable you need to add to you list the following:-<br />
-1) interview host on ii community .<br />
-2) architect of retirement plans and methods of how to get there.<br />
-3) shares wisdom, time and knowledge freely to let other benefit from his experiences.<br />
-<br />
-Identity, and purpose .
 					</div>
 				</article>
 			</div>

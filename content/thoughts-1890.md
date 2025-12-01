@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--17">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--19">
 <p>Just this weekend, I saw My Chemical Romance. I had seen MCR a couple of times before, back in 2011 and 2022. I barely remember the 2011 concert. I don&#8217;t remember any of the actual performance. I just remember looking back at my friend in the middle of &#8220;Welcome to the Black Parade&#8221; and singing the lyrics at each other. This was before filming or taking pictures on your phone was really a thing (I don&#8217;t think I even had a smartphone yet), so recording never came to my mind. But I really wish I somehow remembered more of the concert.</p>
 </blockquote>
 

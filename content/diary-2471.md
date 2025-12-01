@@ -15,8 +15,8 @@ category:
     slug: just-life
     id: 1
 tag:
-  - name: Uley Trees and Grasslands
-    slug: uley-trees-and-grasslands
+  - name: Uley Trees and Meadows
+    slug: uley-trees-and-meadows
     id: 29
 ---
 

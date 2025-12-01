@@ -112,10 +112,10 @@ tag:
 				<p> This article is part of a <a href="/a-reading-list-for-investing">series on investing</a>.</p>
 				<ul> 
 				   <li>
-		    Next up: <a href="/setting-investment-objectives">Setting investment objectives</a>
+		    Next up: <a href="/invest-in-your-own-benchmark">Invest in your own benchmark</a>
 		</li>
 				   <li>
-		    Previous: <a href="/being-passive-aggressive">Being passive aggressive</a>
+		    Previous: <a href="/setting-investment-objectives">Setting investment objectives</a>
 		</li>
 				</ul>
 				</nav>

@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--1">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--9">
 <p>We lost the web to Facebook, Twitter, and the rest because making things on the web was hard and they came in giving people an easy on-ramp. Now here we are in 2024 trying to take it back, and our answer is that, if you want to interact with other web sites, just complete these 13 simple steps, sign up for multiple services, integrate with APIs, build a UI… what are we doing here?</p>
 </blockquote>
 

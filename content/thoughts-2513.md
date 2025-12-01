@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--1">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
 <p>Let’s be clear: the old model, where experience was often gained through highly repetitive tasks, was never perfect. </p>
 
 
@@ -80,7 +80,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--2">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--4">
 <p>Here’s my big philosophical thought for the day. Circa 1985 the kids making the best stuff were those whose brains were capable of picking up a book on assembler and being able to navigate it. </p>
 
 

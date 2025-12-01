@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--7">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--9">
 <p>It’s a misconception to say that AI steals, copies, or plagiarises. What AI does is <em>consume</em>, in roughly the same way that we do, by reading text, or looking at pictures, or listening to sounds.</p>
 
 

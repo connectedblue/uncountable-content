@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--21">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--23">
 <p>One model leverages the lottery ticket promise of virality to capture user-generated content to entertain the masses. It claims the zeitgeist of online culture, insomuch as one can exist in an algorithmically-personalized feed.</p>
 
 

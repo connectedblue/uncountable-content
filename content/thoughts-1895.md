@@ -25,7 +25,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--15">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--17">
 <p>Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.</p>
 </blockquote>
 

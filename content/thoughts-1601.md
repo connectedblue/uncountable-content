@@ -26,7 +26,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--1">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
 <p>My wish is for the IndieWeb to <a href="https://tracydurnell.com/2023/11/21/taking-opportunities-to-connect/">enable <em>and encourage</em> connection</a> between indie website publishers and readers, allowing conversations and <a href="https://tracydurnell.com/2023/07/30/playing-together-online-reimagining-interactions/">other types of interaction</a>. My vision is strengthening and broadening the IndieWeb community. <strong>I want the IndieWeb to be a viable alternative to social media</strong>, gradually widening the audience beyond tech-savvy folks by making the tools easier to use and more reliable.</p>
 </blockquote>
 

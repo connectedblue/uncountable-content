@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--33">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--35">
 <p>I actually think there are&nbsp;<a href="https://adactio.com/links/tags/frontend,development">plenty of good articles and resources on front-end development</a>&nbsp;being published. But they’re not being published in any one specific place. People are publishing them on their own websites.</p>
 
 

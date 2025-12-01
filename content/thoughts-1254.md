@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--27">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--29">
 <p><a href="https://tinyurl.com/PCMMainBranchOutline" target="_blank" rel="noreferrer noopener">PCMMainBranchOutline</a> is pulled from the Princeton Companion to Mathematics<sup><a href="https://jjxsly.bearblog.dev/princeton-companion-to-math-draft-outline-of-main-branches/#fn-1">1</a></sup> and is a brief mind map of the main branches of the subject that the author(s) deemed important. Even though I am just starting to get into it, the PCM seems like an awesome book to return to periodically for someone interested in math.</p>
 </blockquote>
 

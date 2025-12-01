@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--31">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--33">
 <p>Everything we do as people is&nbsp;<em>creative</em>&nbsp;&#8211; it’s the essence of life and consciousness. The thoughts you’re having right now about this idea &#8211; maybe you disagree and are formulating a rebuttal &#8211; are spontaneously arising in your mind and you’re using the ideas that fit together to create a belief that you can think and feel. That’s creative. That’s making something.</p>
 </blockquote>
 

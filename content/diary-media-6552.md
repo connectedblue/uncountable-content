@@ -1,8 +1,8 @@
 ---
 id: media-6552
-title: !9th century apple press
+title: 19th century apple press
 date: "2025-10-26T16:23:03"
-slug: 2025-10-26-9thcenturyapplepress
+slug: 2025-10-26-19thcenturyapplepress
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary

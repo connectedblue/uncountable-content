@@ -46,7 +46,7 @@ tag:
 				<p> This article is part of a <a href="/a-reading-list-for-investing">series on investing</a>.</p>
 				<ul> 
 				   <li>
-		    Next up: <a href="/choosing-an-investment-platform">Choosing an investment platform</a>
+		    Next up: <a href="/setting-investment-objectives">Setting investment objectives</a>
 		</li>
 				   <li>
 		    Previous: <a href="/how-long-does-compounding-take">How long does compounding take?</a>

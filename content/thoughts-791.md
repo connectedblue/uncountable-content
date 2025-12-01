@@ -25,7 +25,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--11">
 <p>This constant tension between money on one side and the desire to help others on the other is also why I live on the edge of constant burnout. Saying no to people is hard when you know you have the skills necessary to help them. And it’s why I always end up with way too many projects going on at the same time and find myself waking up in the middle of the night thinking about all the things that I have to do and I won’t have time to do.</p>
 </blockquote>
 

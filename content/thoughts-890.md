@@ -25,7 +25,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--39">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
 <p>I was missing out on the full indie blog experience by relying solely on a read-later app. These bloggers put time and effort into making their websites – the design, the “About Me” page, the Archives. In an app, all that disappears, replaced by a sterile, uniform layout.</p>
 
 

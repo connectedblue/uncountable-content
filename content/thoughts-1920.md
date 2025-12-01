@@ -243,9 +243,9 @@ tag:
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
-<section class="p-and-m-summary"><article><h2>BorisGoodEnough</h2><p>A European, came to study in the UK and never left&hellip; I worked with official statistics as a researcher and data manager for 25 years. Until then I had never earned more than the minimum wage. </p><p>Saving carefully has been my default setting, thanks to having frugal parents who knew hardship in WW2. Now retired. </p>
-<a href="/people-and-money-borisgoodenough">Read full interview...</a></article><article><h2>DeltaD</h2><p>I built a career working globally, promoting British businesses abroad and in the last 10 years of my career I worked in Digital Operations (International) for a large US Medical Insurance company.</p><p>Became financially independent at the age of 50. Now, my investments pay for my expenses and more. I have always been a saver, always look for true value when spending on anything and very much in favour of living below means.</p>
-<a href="/people-and-money-deltad">Read full interview...</a></article></section>
+<section class="p-and-m-summary"><article><h2>Andrew1972</h2><p>I am just about to turn 53.&nbsp; I have been working in the financial services industry for over 30 years in a number of roles (mostly Risk related).&nbsp; I am married and my husband and I have no children.&nbsp; To me, money provides a mechanism for experiences and funding a comfortable life.&nbsp; I want my money to work for me and when I die, I want to have spent it all.</p>
+<a href="/people-and-money-andrew1972">Read full interview...</a></article><article><h2>DavidUK</h2><p>I am 47 years old. I grew up in New Zealand and started my career as a Management Consultant. For the last 18 years I have been fortunate to work within London&rsquo;s financial services sector. It&rsquo;s been a tough gig but I have met some awesome people and learnt a lot about life and the world from them.</p><p>I have always had a prudent attitude to money - &ldquo;Don&rsquo;t spend what you don&rsquo;t have and make sure you have some put away for a rainy day!&rdquo;.&nbsp;</p>
+<a href="/people-and-money-daviduk">Read full interview...</a></article></section>
 <!-- /wp:shortcode --><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"0"}}}} -->
 <hr class="wp-block-separator has-alpha-channel-opacity" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:0"/>

@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--9">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--11">
 <p>Content moderation is a much bigger issue for platforms than it is for independent, decentralized websites. Without those features mentioned above, posts have&nbsp;<a href="https://lmnt.me/blog/making-time.html">limited range</a>&nbsp;and have a hard time gaining traction.&nbsp;<strong>Surfacing those posts</strong>&nbsp;by functioning as a platform is what enables potential harm.</p>
 </blockquote>
 
@@ -48,7 +48,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--10">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--12">
 <p>Whenever I beat the RSS drum, someone always asks about discoverability, so I want to put this bluntly: it is through algorithmic discoverability features that harmful posts become visible. Whether they are original posts, reposts, or replies, harmful posts are only able to successfully reach their intended audience by depending on those features functioning as social media websites built them.</p>
 
 

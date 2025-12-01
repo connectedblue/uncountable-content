@@ -21,7 +21,7 @@ tag:
 ---
 
 
-<p>My friend Nick and I decided to go to the free open air concert at Brockworth Park in Brixton which was held after a CND rally (part of the 1983 year of peace).  There was a whole host of bands playing there including Style Council, Hazel O&#8217;Connor, the Damned and Madness (who we really wanted to see).</p>
+<p>My friend Nick and I decided to go to the free open air concert at Brockwell Park in Brixton which was held after a CND rally (part of the 1983 year of peace). There was a whole host of bands playing there including Style Council, Hazel O&#8217;Connor, the Damned and Madness (who we really wanted to see).</p>
 
 
 

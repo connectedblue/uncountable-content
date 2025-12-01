@@ -15,8 +15,8 @@ category:
     slug: glorious-grasslands
     id: 5
 tag:
-  - name: Uley Trees and Grasslands
-    slug: uley-trees-and-grasslands
+  - name: Uley Trees and Meadows
+    slug: uley-trees-and-meadows
     id: 29
   - name: Winter Habitat Management 2023/24
     slug: winter-habitat-management-2023-24

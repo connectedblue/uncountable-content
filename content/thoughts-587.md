@@ -25,7 +25,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--7">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--15">
 <p>Rules on keeping “content” fresh, expanding your engagement, writing headings with keywords, and other SEO hacks. These used to be a great way to churn out stuff to generate money, but LLMs have you beat here. It’s not worth writing now unless it’s something you <em>want to do</em>, which perhaps is a silver lining to the modern web.</p>
 </blockquote>
 

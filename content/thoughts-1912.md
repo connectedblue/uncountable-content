@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--13">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--15">
 <p>The Riemann Hypothesis—while being&nbsp;<a href="https://www.reddit.com/r/explainlikeimfive/comments/ysth8g/eli5_what_is_the_riemann_hypothesis_and_why_is_it/?rdt=56008" target="_blank" rel="noreferrer noopener">almost unexplainably hard to understand</a>—is one of our mathematical mysteries. It&#8217;s so mysterious that the person who solves it will earn a million dollars. If it&#8217;s solved, the advancement of our earthly civilization will be unimaginable and might even be a threat to alien civilizations.</p>
 
 

@@ -73,7 +73,23 @@ tag: []
 
 
 <p>If you don&#8217;t have a plan, then you for sure will never be wealthy.  Having a plan does not bring wealth itself, but it does give you tangible next steps that you can take to improve your future financial outcomes.</p>
-<br /><!-- wp:group {"layout":{"type":"constrained"}} -->
+
+			<br/><br/>
+			<div class="series-nav-area">
+			   
+				<nav class="series-nav">
+				<p> This is the last article in a <a href="/a-reading-list-for-investing">series on investing</a>. I hope you found it valuable and enjoyed reading</p>
+				<ul> 
+				   <li></li>
+				   <li>
+		    Previous: <a href="/invest-in-your-own-benchmark">Invest in your own benchmark</a>
+		</li>
+				</ul>
+				</nav>
+				<br/>
+				
+			</div>
+		<br /><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"0"}}}} -->
 <hr class="wp-block-separator has-alpha-channel-opacity" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:0"/>
 <!-- /wp:separator -->

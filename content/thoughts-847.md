@@ -28,7 +28,7 @@ tag:
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--43">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--7">
 <p>July 1 – We start our digital painting! This day is for guiding and shaping the future of the piece while letting go of absolutely any and all expectations. There is a two-hour time limit that can be broken up into any increments you like but only add what you feel inspired to add. Flatten to one layer, write a post about it, add relevant links, and add your piece to the form I send.</p>
 
 
