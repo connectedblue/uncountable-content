@@ -194,8 +194,7 @@ jobs:
             done
             
           echo "Release cleanup completed"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
       
       - name: Workflow summary
         run: |
