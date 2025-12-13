@@ -18,7 +18,7 @@ tag: []
 ---
 
 
-<p>There&#8217;s been a lot of concern lately about biofuels and <a href="https://www.transportenvironment.org/articles/scientist_letter_biofuels">their sustainability</a>  and it might seem like yet another thoroughly modern problem we&#8217;ve brought upon ourselves.</p>
+<p>There&#8217;s been a lot of concern lately about biofuels and <a href="https://www.transportenvironment.org/articles/scientist_letter_biofuels">their sustainability</a> which might seem like yet another thoroughly modern problem we&#8217;ve brought upon ourselves.</p>
 
 
 
@@ -38,19 +38,19 @@ tag: []
 
 
 
-<p>The arrival of the steam train may have replaced the stagecoach, but every station along the trunk line required horses to move goods and people to and from the train.  By 1900, there were around 3.5m horses deployed across agriculture, freight, urban transport and military sectors.</p>
+<p>The arrival of the steam train may have replaced the stagecoach, but every station along the trunk line required horses to move goods and people to and from the train. By 1900, there were around 3.5m horses deployed across agriculture, freight, urban transport, coal mining and military sectors.</p>
 
 
 
-<p>In London, there were estimated to be 50,000+ working horses.  But the harsh conditions meant they only lived 3-4 years and were dying at the rate of 26,000 a year.  Since an animal can only enter service at 3-4 years old, another 100,000 horses would need to be reared in distant pastures to replenish supply.</p>
+<p>In London, there were estimated to be 50,000+ working horses. The harsh conditions meant they only lived 3-4 years and were dying at the rate of 26,000 a year. Since an animal can only enter service at 3-4 years old, another 100,000 horses would need to be reared in distant pastures to replenish supply.</p>
 
 
 
-<p>Each of these biological engines requires daily food, whether they are working or not.  They also produce mountains of waste scale that needs to be disposed of.  Urban horses have zero grazing pasture, so 100% of their nutrition needs to be imported into the city.</p>
+<p>Each of these biological engines requires daily food, whether they are working or not. They also produce mountains of waste that needs to be disposed of. Urban horses have zero grazing pasture, so 100% of their nutrition needs to be imported into the city.</p>
 
 
 
-<p>So, it&#8217;s clear we&#8217;re not talking about a few horses grazing.  This was a complex supply chain operating at a national and international scale that pushed land utilisation to breaking point.</p>
+<p>So, it&#8217;s clear we&#8217;re not really talking about a few horses grazing on verges. This was a complex supply chain operating at a national and international scale that pushed land utilisation to breaking point.</p>
 
 
 
@@ -98,7 +98,7 @@ tag: []
 
 
 
-<p>But this only tells part of the story.  Our back of the envelope calc tells us that 9m acres is not really enough to support a working population of three million horses.</p>
+<p>But this only tells part of the story. Our back of the envelope calc tells us that 10m acres is not really enough to support a working population of three million horses.</p>
 
 
 
@@ -134,11 +134,15 @@ tag: []
 
 
 
-<p>Up until the early 19th century, a closed loop system also existed in cities.  Farmers would take their crop to Haymarket in London and bring back a cart full of manure.  However, the scale required soon made this uneconomic and Haymarket closed in 1830.  After that, hay was then primarily moved by water to Hay&#8217;s Wharf.</p>
+<p>Up until the early 19th century, a closed loop system also existed in cities. Farmers would take their crop to Haymarket in London and bring back a cart full of manure. However, the scale required soon made this uneconomic and Haymarket closed in 1830. After that, hay was then primarily moved by water via Hay&#8217;s Wharf.</p>
 
 
 
-<p>By 1900, around 2.5m tons of hay was destined for urban horses was transported away, eaten in urban areas and dumped as manure in the streets.  This was the zenith of the market garden era, who would take this waste 5 miles or so from the urban centre and use its nutritious and thermic properties to create year round vegetables and salads to be sold back to city residents.</p>
+<p>By 1900, around 2.5m tons of hay destined for urban horses was transported away from grasslands, consumed in urban areas and dumped as manure in the streets. </p>
+
+
+
+<p>This was the zenith of the market garden era.  They would take this waste 5 miles or so from the urban centre and use its nutritious and thermic properties to create year round vegetables and salads.   They were to be sold back to city residents and the nutrients flushed away forever into the rivers and sea.</p>
 
 
 
@@ -154,7 +158,7 @@ tag: []
 
 
 
-<p>The nation&#8217;s food security and transport network could be decimated by a break down in international co-operation (which did actually occur during the U-boat blockade of the first world war).  And the rising prosperity of other nations competing for these same scarce nutrient resources could drive up prices.</p>
+<p>The nation&#8217;s food security and transport network were at risk of being decimated by a break down in international co-operation (which did actually occur during the U-boat blockade of the first world war). And the rising prosperity of other nations competing for these same scarce nutrient resources could drive up prices.</p>
 
 
 
@@ -162,7 +166,7 @@ tag: []
 
 
 
-<p>In the cities the decline of the horse was swift.  In 1901 there was 1 motor taxi in London.  By 1914, the last horse drawn omnibus was taken out of service and 9,000 taxis were on the streets.</p>
+<p>In the cities the decline of the horse was swift. In 1901 there was just a single motor taxi in London. By 1914, the last horse drawn omnibus was taken out of service and 9,000 taxis were on the streets.</p>
 
 
 
@@ -175,3 +179,15 @@ tag: []
 
 
 <p>The stage was set for a whole new set of ecological problems to emerge.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>This post is the first in a series to summarise some research I have been carrying out on the evolution of grasslands and the impact on biodiversity.  It was inspired by a throw away side comment in <a href="https://www.wottonareacan.org/post/glorious-cotswold-grasslands-project-with-lorna-baggett-from-cotswolds-national-landscape">a talk by Glorious Cotswold Grasslands</a> about the role of grasslands in the transport sector.</p>
+
+
+
+<p>You can read my <a href="https://docs.google.com/document/d/1IVxQyN-qlkfNVAM_4NBl8Wwu_UYj2IhcGk3V7cFI2kU/edit?tab=t.0">research notes and methodology here</a>.</p>
