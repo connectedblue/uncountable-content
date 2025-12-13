@@ -18,7 +18,7 @@ tag: []
 ---
 
 
-<p>There&#8217;s been a lot of concern lately about biofuels and <a href="https://www.transportenvironment.org/articles/scientist_letter_biofuels">their sustainability</a> which might seem like yet another thoroughly modern problem we&#8217;ve brought upon ourselves.</p>
+<p>There&#8217;s been a lot of scientific concern lately about biofuels and <a href="https://www.transportenvironment.org/articles/scientist_letter_biofuels">their sustainability</a> which might seem like yet another thoroughly modern problem we&#8217;ve brought upon ourselves.</p>
 
 
 
@@ -98,7 +98,7 @@ tag: []
 
 
 
-<p>But this only tells part of the story. Our back of the envelope calc tells us that 10m acres is not really enough to support a working population of three million horses.</p>
+<p>But this only tells part of the story. Our back of the envelope calc tells us that 10.3m acres is not really enough to support a working population of three million horses.</p>
 
 
 
@@ -114,7 +114,7 @@ tag: []
 
 
 
-<p>An area roughly the size of Yorkshire was required overseas to complete the nutritional picture.  In total, 14.2m acres was supporting the nation&#8217;s 3.5m horses.</p>
+<p>An area roughly the size of Yorkshire was required overseas to complete the nutritional picture. In total, 14.6m acres was supporting the nation&#8217;s 3.5m horses.</p>
 
 
 
@@ -146,7 +146,7 @@ tag: []
 
 
 
-<p>Ultimately this cycle created a national nutrient deficit which could only be balanced by importing again from foreign lands.  There were indirect fertilizers in the form of animal feed for cattle in the grasslands, but also direct fertilizers such as Chilean nitrate, guano, bones and German potash.</p>
+<p>Ultimately this cycle created a national NPK deficit which could only be balanced by importing again from foreign lands. There were indirect fertilizers in the form of animal feed for cattle in the grasslands, but also direct fertilizers such as Chilean nitrate, guano, bones and German potash.</p>
 
 
 
