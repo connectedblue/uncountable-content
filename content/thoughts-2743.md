@@ -74,7 +74,7 @@ tag: []
 
 
 
-<p>An approximate breakdown of land use at the time was as follows:</p>
+<p>An approximate breakdown of cultivated land use at the time was as follows:</p>
 
 
 
