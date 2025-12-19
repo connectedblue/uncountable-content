@@ -1,8 +1,8 @@
 ---
 id: media-6761
 title: Standing desk
-date: "2025-12-17T21:02:22"
-slug: 2025-12-17-standingdesk
+date: "2025-12-16T21:02:22"
+slug: 2025-12-16-standingdesk
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary
