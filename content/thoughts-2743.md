@@ -30,7 +30,7 @@ tag: []
 
 
 
-<p>The common framing of the industrial revolution is one of machines replacing muscles.  However, it actually acted as a multiplier on the demand for horses to keep up with growth</p>
+<p>The common framing of the industrial revolution is one of machines replacing muscles. However, it actually acted as a multiplier on the demand for horses to keep up with growth.</p>
 
 
 
