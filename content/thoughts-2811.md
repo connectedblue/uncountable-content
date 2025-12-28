@@ -33,7 +33,7 @@ tag:
 
 
 
-<p>I have a sprawling personal site <a href="https://uncountable.uk/">uncountable.uk</a> with lots of unconnected sub domains I run for my own amusement.   But I also have run some community websites such as <a href="https://artocalypse.org/">The Artocalypse</a> and <a href="https://dursleygreen.org.uk/">Dursley Green Drinks</a> .  I view all these sites as being indie web, rather than part of the IndieWeb.</p>
+<p>I have a sprawling personal site <a href="https://uncountable.uk/">uncountable.uk</a> with lots of unconnected sub domains I run for my own amusement. But I also have run some community websites such as <a href="https://artocalypse.org/">The Artocalypse</a> and <a href="https://dursleygreen.org.uk/">Dursley Green Drinks</a>. I view all these sites as being indie web, rather than part of the IndieWeb.</p>
 
 
 
