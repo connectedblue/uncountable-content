@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--1">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
 <p>But perhaps the death of search is&nbsp;<em>good</em>&nbsp;for the future of the web. Perhaps websites can be free of dumb rankings and junky ads that are designed to make fractions of a penny at a time. Perhaps the web needs to be released from the burden of this business model. Perhaps mass readership isn’t possible for the vast majority of websites and was never really sustainable in the first place.</p>
 </blockquote>
 

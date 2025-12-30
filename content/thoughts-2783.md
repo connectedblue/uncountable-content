@@ -22,7 +22,7 @@ tag: []
 
 
 
-<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--3">
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--5">
 <p>Now, ChatGPT got&nbsp;<em>every single part of that</em>&nbsp;wrong. It left Riggs, Paul, Olshevsky and me out completely. It credited Werner Janensch for reassigning a species to a genus whose name was coined 19 years after he died. It pulled poor Ernst Stromer in for some reason. It invented “the paleontologist Michael Janensch”, who is presumably the unholy offspring of Werner Janensch and me. And in all three answers, it insisted that the reassignment was done in 1914, 74 years before the name&nbsp;<em>Giraffatitan</em>&nbsp;was coined.</p>
 
 
