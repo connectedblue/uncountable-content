@@ -29,11 +29,7 @@ tag:
 
 
 
-<p>The site itself was ready around June for launch and we spent the second half of the year getting content in place and a social media presence established.  The events section is already very vibrant, and the directory is filling up nicely.  In 2026, we plan to use the platform as the focus for a &#8220;26 things to do in 2026&#8221; campaign.</p>
-
-
-
-<p>The site is wordpress, but there are many features which are specifically customised using AI.  This represents a shift for me.  Instead of hunting for endless plugins to customise a site, the exact functionality can be generated easily by AI.</p>
+<p>The site itself was ready around June for launch and we spent the second half of the year getting content in place and a social media presence established. The events section is already very vibrant, and the directory is filling up nicely. Next year, we plan to use the platform as the focus for a &#8220;26 things to do in 2026&#8221; campaign.</p>
 
 
 
