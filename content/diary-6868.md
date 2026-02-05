@@ -7,8 +7,8 @@ site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary
 site_name: My Diary
-featured_media_url: null
-featured_media_srcset: null
+featured_media_url: "https://media.uncountable.uk/diary/2026/01/28204024/IMG20260128142206.webp"
+featured_media_srcset: "https://media.uncountable.uk/diary/2026/01/28204024/IMG20260128142206-300x169.webp 300w, https://media.uncountable.uk/diary/2026/01/28204024/IMG20260128142206-1024x576.webp 1024w, https://media.uncountable.uk/diary/2026/01/28204024/IMG20260128142206-150x150.webp 150w, https://media.uncountable.uk/diary/2026/01/28204024/IMG20260128142206-640x360.webp 640w, https://media.uncountable.uk/diary/2026/01/28204024/IMG20260128142206.webp 2177w"
 type: post
 category:
   - name: Glorious Grasslands
