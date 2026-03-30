@@ -107,7 +107,7 @@ tag: []
 
 
 
-<p>It&#8217;s both thrilling and terrifying to be alive to witness the birth of this technology.  Like it or not, we&#8217;re about to witness a cambrian explosion of technology that will alter the trajectory for<a href="https://thoughts.uncountable.uk/we-are-an-ancient-civilisation/" data-type="post" data-id="1829"> the remainder of our species existence</a>.</p>
+<p>It&#8217;s both thrilling and terrifying to be alive to witness the birth of this technology. Like it or not, we&#8217;re about to experience a cambrian explosion of technology that will alter the trajectory for <a href="https://thoughts.uncountable.uk/we-are-an-ancient-civilisation/" data-type="post" data-id="1829">the remainder of our species existence</a>.</p>
 
 
 

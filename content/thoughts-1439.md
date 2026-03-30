@@ -26,11 +26,11 @@ tag: []
 
 
 
-<p>The supply chain for semi conductors is truly global. The starting point is sand. One of the most abundant elements on earth. However, you can&#8217;t just go to Weston-super-Mare with your bucket and spade and start digging.</p>
+<p>The supply chain for semi conductors is truly global. The starting point is sand. One of the most abundant compounds on earth. However, you can&#8217;t just go to Weston-super-Mare with your bucket and spade and start digging.</p>
 
 
 
-<p>You need high grade pure silicone which exists mostly in deposits in Germany and the Appalachian mountains in the US. They are shipped to Australia to be compressed into ingot bars. These ingots are sent to Japan for slicing into impossibly thin wafers. The wafers are then sent to Taiwan and South Korea to be etched with nanometre logic circuits on sand molecules. Fabricated silicon is then sent to Malaysia for packaging into the plastic casing you recognise as a chip. Finally they are shipped off to China for assembling into the final products that we buy.</p>
+<p>You need high grade pure silicon which exists mostly in deposits in Germany and the Appalachian mountains in the US. They are shipped to Japan to be compressed into ingot bars and sliced into impossibly thin wafers. The wafers are then sent to Taiwan and South Korea to be etched with nanometre logic circuits on sand molecules. Fabricated silicon is then sent to Malaysia for packaging into the plastic casing you recognise as a chip. Finally they are shipped off to China for assembling into the final products that we buy.</p>
 
 
 
