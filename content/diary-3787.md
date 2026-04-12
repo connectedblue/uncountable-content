@@ -1,7 +1,7 @@
 ---
 id: 3787
 title: 26 January
-date: "2011-01-28T05:34:00"
+date: "2011-01-26T05:34:00"
 slug: 26-january
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

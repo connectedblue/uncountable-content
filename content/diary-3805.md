@@ -1,7 +1,7 @@
 ---
 id: 3805
 title: "6 January &#8211; Hawkes Bay"
-date: "2011-01-07T08:13:00"
+date: "2011-01-06T08:13:00"
 slug: 6-january-hawkes-bay
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

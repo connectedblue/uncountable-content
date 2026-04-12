@@ -1,7 +1,7 @@
 ---
 id: 3812
 title: "30 December &#8211; Auckland"
-date: "2010-12-31T19:47:00"
+date: "2010-12-30T19:47:00"
 slug: 30-december-auckland
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

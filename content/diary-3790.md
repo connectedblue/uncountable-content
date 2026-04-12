@@ -1,7 +1,7 @@
 ---
 id: 3790
 title: 22 January
-date: "2011-01-23T04:49:00"
+date: "2011-01-22T04:49:00"
 slug: 22-january
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

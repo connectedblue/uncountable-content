@@ -1,7 +1,7 @@
 ---
 id: 3796
 title: 15 January
-date: "2011-01-16T08:40:00"
+date: "2011-01-15T08:40:00"
 slug: 15-january
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

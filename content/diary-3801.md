@@ -1,7 +1,7 @@
 ---
 id: 3801
 title: 9 January
-date: "2011-01-13T07:27:00"
+date: "2011-01-09T07:27:00"
 slug: 9-january
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

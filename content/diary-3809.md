@@ -1,7 +1,7 @@
 ---
 id: 3809
 title: "2 January &#8211; Tauranga"
-date: "2011-01-03T19:29:00"
+date: "2011-01-02T19:29:00"
 slug: 2-january-tauranga
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
