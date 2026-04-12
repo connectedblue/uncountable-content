@@ -21,7 +21,7 @@ tag:
 ---
 
 
-<p>In early trading on 2 January 2025, the FTSE100 passed the 10,000 mark for the first time.  </p>
+<p>In early trading on 2 January 2026, the FTSE100 passed the 10,000 mark for the first time.</p>
 
 
 
