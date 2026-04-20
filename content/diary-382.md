@@ -52,4 +52,4 @@ tag: []
 </div></div>
 
 
-<p>There were too many photos and it was difficult to pick out just one or two for the blog. </p>
+<p>There were too many photos and it was difficult to pick out just one or two for the blog. You can view all the <a href="https://photos.app.goo.gl/xynx9zaAgRNVNAbu6">photos here though</a>.</p>
