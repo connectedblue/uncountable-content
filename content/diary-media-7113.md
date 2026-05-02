@@ -1,8 +1,8 @@
 ---
 id: media-7113
 title: Fixing the relay board
-date: "2026-04-30T19:11:54"
-slug: 2026-04-30-fixingtherelayboard
+date: "2026-04-23T19:11:00"
+slug: 2026-04-23-fixingtherelayboard
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary
