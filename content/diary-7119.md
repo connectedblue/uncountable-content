@@ -18,17 +18,17 @@ tag: []
 ---
 
 
-<p>I&#8217;ve done a few work parties in Box Wood with the Wildlife Trust, but I didn&#8217;t know there was a separate volunteer group as well.  Vicky had forwarded me an email about a session to build a bridge, so I signed up to the group and made my way down this morning.</p>
+<p class="wp-block-paragraph">I&#8217;ve done a few work parties in Box Wood with the Wildlife Trust, but I didn&#8217;t know there was a separate volunteer group as well.  Vicky had forwarded me an email about a session to build a bridge, so I signed up to the group and made my way down this morning.</p>
 
 
 <style>.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap{align-content:start;}:where(.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:start;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap{column-gap:var(--global-kb-gap-md, 2rem);row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:repeat(2, minmax(0, 1fr));}.kb-row-layout-id7119_3597f6-40 > .kt-row-layout-overlay{opacity:0.30;}@media all and (max-width: 1024px){.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap{grid-template-columns:repeat(2, minmax(0, 1fr));}}@media all and (max-width: 767px){.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(1 of *:not(style)){order:2;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(2 of *:not(style)){order:1;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(3 of *:not(style)){order:12;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(4 of *:not(style)){order:11;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(5 of *:not(style)){order:22;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(6 of *:not(style)){order:21;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(7 of *:not(style)){order:32;}.kb-row-layout-id7119_3597f6-40 > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(8 of *:not(style)){order:31;}}</style><div class="kb-row-layout-wrap kb-row-layout-id7119_3597f6-40 alignnone wp-block-kadence-rowlayout"><div class="kt-row-column-wrap kt-has-2-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-top">
 <style>.kadence-column7119_ab4844-82 > .kt-inside-inner-col,.kadence-column7119_ab4844-82 > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column7119_ab4844-82 > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column7119_ab4844-82 > .kt-inside-inner-col{flex-direction:column;}.kadence-column7119_ab4844-82 > .kt-inside-inner-col > .aligncenter{width:100%;}.kadence-column7119_ab4844-82 > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column7119_ab4844-82{position:relative;}@media all and (max-width: 1024px){.kadence-column7119_ab4844-82 > .kt-inside-inner-col{flex-direction:column;justify-content:center;}}@media all and (max-width: 767px){.kadence-column7119_ab4844-82 > .kt-inside-inner-col{flex-direction:column;justify-content:center;}}</style>
 <div class="wp-block-kadence-column kadence-column7119_ab4844-82"><div class="kt-inside-inner-col">
-<p>The group is very friendly and passionate about keeping the woods maintained for both wildlife and the public.</p>
+<p class="wp-block-paragraph">The group is very friendly and passionate about keeping the woods maintained for both wildlife and the public.</p>
 
 
 
-<p>The first job was to get the kit and the materials down to the area where we&#8217;d be constructing the bridge.</p>
+<p class="wp-block-paragraph">The first job was to get the kit and the materials down to the area where we&#8217;d be constructing the bridge.</p>
 </div></div>
 
 
@@ -40,20 +40,20 @@ tag: []
 </div></div>
 
 
-<p>It turned out we didn&#8217;t need all the shorter pieces.  After digging out the levels on each side of the stream, we only need two half sleepers to provide support for the main planks.</p>
+<p class="wp-block-paragraph">It turned out we didn&#8217;t need all the shorter pieces.  After digging out the levels on each side of the stream, we only need two half sleepers to provide support for the main planks.</p>
 
 
 
-<p>While the main planks were being secured into place, I dug some soil in-fill with the mattock, so we could provide solid ground around the structure.  It really didn&#8217;t take too long to get the main pieces into place and come up with a functional bridge.</p>
+<p class="wp-block-paragraph">While the main planks were being secured into place, I dug some soil in-fill with the mattock, so we could provide solid ground around the structure.  It really didn&#8217;t take too long to get the main pieces into place and come up with a functional bridge.</p>
 
 
 
-<p>We placed four planks, and there was overlap on the underlying support beams.  We went back and forth over whether there should be a fifth plank added, or just chainsaw off the dead ends.</p>
+<p class="wp-block-paragraph">We placed four planks, and there was overlap on the underlying support beams.  We went back and forth over whether there should be a fifth plank added, or just chainsaw off the dead ends.</p>
 
 
 
-<p>The final decision was a fifth plank, and two of them went off to purchase it.  It didn&#8217;t need the rest of us to stay, so we carried the tools and spare material back out and wrapped up.</p>
+<p class="wp-block-paragraph">The final decision was a fifth plank, and two of them went off to purchase it.  It didn&#8217;t need the rest of us to stay, so we carried the tools and spare material back out and wrapped up.</p>
 
 
 
-<p>It was a very pleasant morning and group.  I&#8217;m on their email list now, so hopefully will get to attend a few more in the future.</p>
+<p class="wp-block-paragraph">It was a very pleasant morning and group.  I&#8217;m on their email list now, so hopefully will get to attend a few more in the future.</p>

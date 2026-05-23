@@ -21,16 +21,16 @@ tag:
 ---
 
 
-<p>A little later this month, due to last week&#8217;s bank holiday, Tony and I met up this morning at Ebley for our regular riverfly count.  I was somewhat hopeful the numbers might be good, following the <a href="https://diary.uncountable.uk/2026/05/a-species-rich-day/" data-type="post" data-id="7157">successful morning last Sunday</a>, but you never can tell with this site.</p>
+<p class="wp-block-paragraph">A little later this month, due to last week&#8217;s bank holiday, Tony and I met up this morning at Ebley for our regular riverfly count.  I was somewhat hopeful the numbers might be good, following the <a href="https://diary.uncountable.uk/2026/05/a-species-rich-day/" data-type="post" data-id="7157">successful morning last Sunday</a>, but you never can tell with this site.</p>
 
 
 
-<p>The good news was the levels and flow were very low, so we could get to all the usual parts.  I took the kick sample while Tony timed, and then he did the stone wash.  On very first glance, the bucket didn&#8217;t look all that promising before we tipped into the sample tray.</p>
+<p class="wp-block-paragraph">The good news was the levels and flow were very low, so we could get to all the usual parts.  I took the kick sample while Tony timed, and then he did the stone wash.  On very first glance, the bucket didn&#8217;t look all that promising before we tipped into the sample tray.</p>
 
 
 
-<p>However, that all changed very quickly.  There were loads of olives &#8211; something which I&#8217;ve seen only in small numbers at recent sites.  Plus we also had a healthy number of stone clingers and blue-winged olives.</p>
+<p class="wp-block-paragraph">However, that all changed very quickly.  There were loads of olives &#8211; something which I&#8217;ve seen only in small numbers at recent sites.  Plus we also had a healthy number of stone clingers and blue-winged olives.</p>
 
 
 
-<p>So, overall the score was 9 which was very good for this site and matches what we found downstream at the weekend.  It&#8217;s good to get this baseline now, as things could start to decline in June if this dry weather continues much longer.  </p>
+<p class="wp-block-paragraph">So, overall the score was 9 which was very good for this site and matches what we found downstream at the weekend.  It&#8217;s good to get this baseline now, as things could start to decline in June if this dry weather continues much longer.  </p>

@@ -21,17 +21,17 @@ tag:
 ---
 
 
-<p>My third crack with <a href="https://www.gloucestershirewildlifetrust.co.uk/volunteer">Gloucestershire Wildlife Trust</a> at trying to get the willow screen up by the side of the canal at Fromebridge.</p>
+<p class="wp-block-paragraph">My third crack with <a href="https://www.gloucestershirewildlifetrust.co.uk/volunteer">Gloucestershire Wildlife Trust</a> at trying to get the willow screen up by the side of the canal at Fromebridge.</p>
 
 
 <style>.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap{align-content:start;}:where(.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:start;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap{column-gap:var(--global-kb-gap-md, 2rem);row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:repeat(2, minmax(0, 1fr));}.kb-row-layout-id7181_a2683f-ce > .kt-row-layout-overlay{opacity:0.30;}@media all and (max-width: 1024px){.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap{grid-template-columns:repeat(2, minmax(0, 1fr));}}@media all and (max-width: 767px){.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(1 of *:not(style)){order:2;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(2 of *:not(style)){order:1;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(3 of *:not(style)){order:12;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(4 of *:not(style)){order:11;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(5 of *:not(style)){order:22;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(6 of *:not(style)){order:21;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(7 of *:not(style)){order:32;}.kb-row-layout-id7181_a2683f-ce > .kt-row-column-wrap > .wp-block-kadence-column:nth-child(8 of *:not(style)){order:31;}}</style><div class="kb-row-layout-wrap kb-row-layout-id7181_a2683f-ce alignnone wp-block-kadence-rowlayout"><div class="kt-row-column-wrap kt-has-2-columns kt-row-layout-equal kt-tab-layout-inherit kt-mobile-layout-row kt-row-valign-top">
 <style>.kadence-column7181_3c0d60-3b > .kt-inside-inner-col,.kadence-column7181_3c0d60-3b > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column7181_3c0d60-3b > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column7181_3c0d60-3b > .kt-inside-inner-col{flex-direction:column;}.kadence-column7181_3c0d60-3b > .kt-inside-inner-col > .aligncenter{width:100%;}.kadence-column7181_3c0d60-3b > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column7181_3c0d60-3b{position:relative;}@media all and (max-width: 1024px){.kadence-column7181_3c0d60-3b > .kt-inside-inner-col{flex-direction:column;justify-content:center;}}@media all and (max-width: 767px){.kadence-column7181_3c0d60-3b > .kt-inside-inner-col{flex-direction:column;justify-content:center;}}</style>
 <div class="wp-block-kadence-column kadence-column7181_3c0d60-3b"><div class="kt-inside-inner-col">
-<p>This time I joined with Andrew and Imogen as we tried to see if the recent rain had softened the ground any more to allow the posts in.</p>
+<p class="wp-block-paragraph">This time I joined with Andrew and Imogen as we tried to see if the recent rain had softened the ground any more to allow the posts in.</p>
 
 
 
-<p>It became apparent after a couple of goes that the posts were not going any deeper than 40cm, which was half way what they should be.</p>
+<p class="wp-block-paragraph">It became apparent after a couple of goes that the posts were not going any deeper than 40cm, which was half way what they should be.</p>
 </div></div>
 
 
@@ -43,16 +43,16 @@ tag:
 </div></div>
 
 
-<p>We tried various techniques with the wrecking bar and spade and realised there was some form of hardcore layer at that depth which was preventing progress.  So the next task was to bash through that.</p>
+<p class="wp-block-paragraph">We tried various techniques with the wrecking bar and spade and realised there was some form of hardcore layer at that depth which was preventing progress.  So the next task was to bash through that.</p>
 
 
 
-<p>We think we made a pretty good job of bashing through 10cm or so of hard core to what felt like softer clay underneath.  But by this time, the other team had taken our post rammer to another part of the reserve to do their fencing, so we couldn&#8217;t test the new theory.</p>
+<p class="wp-block-paragraph">We think we made a pretty good job of bashing through 10cm or so of hard core to what felt like softer clay underneath.  But by this time, the other team had taken our post rammer to another part of the reserve to do their fencing, so we couldn&#8217;t test the new theory.</p>
 
 
 
-<p>So we just reset everything back to how it was as a temporary store for the panels and that will have to be looked at again next week.</p>
+<p class="wp-block-paragraph">So we just reset everything back to how it was as a temporary store for the panels and that will have to be looked at again next week.</p>
 
 
 
-<p>On joining the others, we could see a much more productive effort going on.  A new section of stock proof fence was erected by the bird hide that felt nice and solid.  It&#8217;s not completed yet, so we assembled the heras fencing in the gap as a temporary measure until next time.</p>
+<p class="wp-block-paragraph">On joining the others, we could see a much more productive effort going on.  A new section of stock proof fence was erected by the bird hide that felt nice and solid.  It&#8217;s not completed yet, so we assembled the heras fencing in the gap as a temporary measure until next time.</p>

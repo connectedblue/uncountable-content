@@ -18,20 +18,20 @@ tag: []
 ---
 
 
-<p>A leisurely day today.  I wasn&#8217;t due in town until later in the afternoon, so spent the morning watching the snooker and putting in the final software updates for the escape room.</p>
+<p class="wp-block-paragraph">A leisurely day today.  I wasn&#8217;t due in town until later in the afternoon, so spent the morning watching the snooker and putting in the final software updates for the escape room.</p>
 
 
 
-<p>At the library after school, I held the regular <a href="https://www.facebook.com/dursleycodeclub">Dursley Code Club</a>.  A good attendance today with 6, and a few trying out python for the first time.</p>
+<p class="wp-block-paragraph">At the library after school, I held the regular <a href="https://www.facebook.com/dursleycodeclub">Dursley Code Club</a>.  A good attendance today with 6, and a few trying out python for the first time.</p>
 
 
 
-<p>In the evening I went down to the annual Dursley Town Assembly held at the <a href="https://www.chantrycentre.org/">Chantry Centre</a>.  This is always a good opportunity to catch up with a few people I know around the town, as well as hearing the latest updates of what&#8217;s going on.</p>
+<p class="wp-block-paragraph">In the evening I went down to the annual Dursley Town Assembly held at the <a href="https://www.chantrycentre.org/">Chantry Centre</a>.  This is always a good opportunity to catch up with a few people I know around the town, as well as hearing the latest updates of what&#8217;s going on.</p>
 
 
 
-<p>The last item on the agenda was to hand out some awards to people in the community.  I was surprised, and somewhat embarrassed to hear my name read out, along with a citation for work I&#8217;d done on <a href="https://discoverdursley.org.uk/">Discover Dursley</a> and some other projects recently.  It&#8217;s no exaggeration to say there were plenty in that room who should be in line for an award ahead of me.<br><br>But I was delighted and honoured to accept a 2026 Leslie D. Gale award for service to the community of Dursley.</p>
+<p class="wp-block-paragraph">The last item on the agenda was to hand out some awards to people in the community.  I was surprised, and somewhat embarrassed to hear my name read out, along with a citation for work I&#8217;d done on <a href="https://discoverdursley.org.uk/">Discover Dursley</a> and some other projects recently.  It&#8217;s no exaggeration to say there were plenty in that room who should be in line for an award ahead of me.<br><br>But I was delighted and honoured to accept a 2026 Leslie D. Gale award for service to the community of Dursley.</p>
 
 
 
-<p>Quite a few people stayed on for the buffet afterwards when I was able to catch up with everyone I wanted. </p>
+<p class="wp-block-paragraph">Quite a few people stayed on for the buffet afterwards when I was able to catch up with everyone I wanted. </p>
