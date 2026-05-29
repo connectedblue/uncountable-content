@@ -1,7 +1,7 @@
 ---
 id: 7189
 title: Trimming around the pipeline
-date: "2026-05-23T12:08:40"
+date: "2026-05-22T12:08:40"
 slug: trimming-around-the-pipeline
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"

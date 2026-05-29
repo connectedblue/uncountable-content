@@ -1,8 +1,8 @@
 ---
 id: media-7195
 title: A family of swans
-date: "2026-05-23T11:47:00"
-slug: 2026-05-23-afamilyofswans
+date: "2026-05-22T11:47:00"
+slug: 2026-05-22-afamilyofswans
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary
