@@ -44,7 +44,7 @@ tag: []
 </div></div>
 
 
-<p class="wp-block-paragraph">Just as they finished their last song, the first drops if rain appeared so they disassembled quickly and everyone took shelter under the market place.  This created a huge buzz of activity arounf the stalls which didn&#8217;t really let up all day.</p>
+<p class="wp-block-paragraph">Just as they finished their last song, the first drops if rain appeared so they disassembled quickly and everyone took shelter under the market place. This created a huge buzz of activity around the stalls which didn&#8217;t really let up all day.</p>
 
 
 
