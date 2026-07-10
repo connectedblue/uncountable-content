@@ -1,8 +1,8 @@
 ---
 id: media-7319
 title: "Lady&#8217;s Bedstraw"
-date: "2026-07-05T19:47:00"
-slug: 2026-07-05-lady8217sbedstraw
+date: "2026-07-04T19:47:00"
+slug: 2026-07-04-lady8217sbedstraw
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary

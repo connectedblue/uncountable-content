@@ -1,8 +1,8 @@
 ---
 id: media-7315
 title: High energy rock band
-date: "2026-07-05T19:46:00"
-slug: 2026-07-05-highenergyrockband
+date: "2026-07-04T19:46:00"
+slug: 2026-07-04-highenergyrockband
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary

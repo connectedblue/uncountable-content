@@ -1,8 +1,8 @@
 ---
 id: media-7317
 title: Festival stalls in parsonage street
-date: "2026-07-05T19:46:53"
-slug: 2026-07-05-festivalstallsinparsonagestreet
+date: "2026-07-04T19:46:00"
+slug: 2026-07-04-festivalstallsinparsonagestreet
 site: "https://diary.uncountable.uk"
 wp_url: "https://diary.uncountable.uk"
 root_slug: diary
