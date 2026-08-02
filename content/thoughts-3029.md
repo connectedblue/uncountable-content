@@ -94,4 +94,9 @@ items.forEach(item => list.appendChild(item));
 <ul class="randomize-order">
 <li><a href="https://thoughts.uncountable.uk/purpose/">Purpose</a> by Chris of <a href="https://thoughts.uncountable.uk">Uncountable Thoughts</a></li>
 <li><a href="https://nullish.smol.pub/purpose-intention-action">Purpose, intention, action</a> by Nullish of <a href="https://sarnart.dev/">Sarnart</a></li>
+<li><a href="https://wheel-of-fortune.neocities.org/personal#02082026">IndieWeb Carnival — Purpose</a> by Jude of <a href="https://wheel-of-fortune.neocities.org/">Gremlin Cave</a></li>
 </ul>
+
+
+
+<p class="wp-block-paragraph"></p>
