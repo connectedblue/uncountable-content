@@ -93,5 +93,5 @@ items.forEach(item => list.appendChild(item));
 
 <ul class="randomize-order">
 <li><a href="https://thoughts.uncountable.uk/purpose/">Purpose</a> by Chris of <a href="https://thoughts.uncountable.uk">Uncountable Thoughts</a></li>
-
+<li><a href="https://nullish.smol.pub/purpose-intention-action">Purpose, intention, action</a> by Nullish of <a href="https://sarnart.dev/">Sarnart</a></li>
 </ul>
