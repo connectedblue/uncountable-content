@@ -82,6 +82,7 @@ tag:
 <li><a href="https://thoughts.uncountable.uk/purpose/">Purpose</a> by Chris of <a href="https://thoughts.uncountable.uk">Uncountable Thoughts</a></li>
 <li><a href="https://nullish.smol.pub/purpose-intention-action">Purpose, intention, action</a> by Nullish of <a href="https://sarnart.dev/">Sarnart</a></li>
 <li><a href="https://wheel-of-fortune.neocities.org/personal#02082026">IndieWeb Carnival — Purpose</a> by Jude of <a href="https://wheel-of-fortune.neocities.org/">Gremlin Cave</a></li>
+<li><a href="https://khleedril.org/blog/2026-08-03--purpose.html">Purpose as a Verb, a Force for Good</a> by Dale of <a href="https://khleedril.org/blog">Dale Mellorʼs Blog</a></li>
 </ul>
 
 
