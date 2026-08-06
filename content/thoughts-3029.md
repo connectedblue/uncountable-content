@@ -84,6 +84,8 @@ tag:
 <li><a href="https://wheel-of-fortune.neocities.org/personal#02082026">IndieWeb Carnival — Purpose</a> by Jude of <a href="https://wheel-of-fortune.neocities.org/">Gremlin Cave</a></li>
 <li><a href="https://khleedril.org/blog/2026-08-03--purpose.html">Purpose as a Verb, a Force for Good</a> by Dale of <a href="https://khleedril.org/blog">Dale Mellorʼs Blog</a></li>
 <li><a href="https://andrei.xyz/post/the-real-purpose/">The Real Purpose</a> by Andrei of <a href="https://andrei.xyz/">Andrei.xyz</a></li>
+<li><a href="https://skippy.net/purpose/">Purpose</a> by Scott of <a href="https://skippy.net/">Scott Merrill</a></li>
+<li><a href="https://www.bongotwisty.blog/indiweb-carnival_august_2026/">IndiWeb Carnival: August 2026 &#8211; Purpose</a> by Alexander of <a href="https://www.bongotwisty.blog/">Bongo Twisty</a></li>
 </ul>
 
 
