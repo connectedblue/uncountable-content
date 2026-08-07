@@ -86,6 +86,8 @@ tag:
 <li><a href="https://andrei.xyz/post/the-real-purpose/">The Real Purpose</a> by Andrei of <a href="https://andrei.xyz/">Andrei.xyz</a></li>
 <li><a href="https://skippy.net/purpose/">Purpose</a> by Scott of <a href="https://skippy.net/">Scott Merrill</a></li>
 <li><a href="https://www.bongotwisty.blog/indiweb-carnival_august_2026/">IndiWeb Carnival: August 2026 &#8211; Purpose</a> by Alexander of <a href="https://www.bongotwisty.blog/">Bongo Twisty</a></li>
+<li><a href="https://gabbott.dev/blog/purpose">Purpose</a> by George of <a href="https://gabbott.dev/">GAbbott</a></li>
+<li><a href="https://aleemshaun.com/posts/on-purpose">On Purpose</a> by Aleem of <a href="https://aleemshaun.com/">Aleem Shaun</a></li>
 </ul>
 
 
