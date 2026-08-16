@@ -89,8 +89,13 @@ tag:
 <li><a href="https://gabbott.dev/blog/purpose">Purpose</a> by George of <a href="https://gabbott.dev/">GAbbott</a></li>
 <li><a href="https://aleemshaun.com/posts/on-purpose">On Purpose</a> by Aleem of <a href="https://aleemshaun.com/">Aleem Shaun</a></li>
 
-<li><a href=""https://object.computer/2026/08/07/on-finding-purpose-in-customer.html"">On finding purpose in customer support
-</a> by Thomas of <a href=""https://object.computer/"">object dot computer</a></li>
+<li><a href="" https:="" object.computer="" 2026="" 08="" 07="" on-finding-purpose-in-customer.html""="">On finding purpose in customer support
+</a> by Thomas of <a href="" https:="" object.computer="" ""="">object dot computer</a></li>
+
+<li><a href="https://seb.page/2026/08/11/the-purpose-is-to-rebel/">The purpose is to rebel</a> by Sebastian of <a href="https://seb.page/">Seb&#8217;s Web</a></li>
+
+<li><a href="https://marisabel.nl/public/blog/The_Purpose_of_Paper">The Purpose of Paper</a> by Marisabel of <a href="https://marisabel.nl/">konfetti explorations</a></li>
+
 </ul>
 
 
