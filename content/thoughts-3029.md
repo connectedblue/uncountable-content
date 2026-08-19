@@ -96,6 +96,8 @@ tag:
 
 <li><a href="https://marisabel.nl/public/blog/The_Purpose_of_Paper">The Purpose of Paper</a> by Marisabel of <a href="https://marisabel.nl/">konfetti explorations</a></li>
 
+<li><a href="https://loreleice.net/notebook/iwc-aug2026.html">The purpose of collecting digital media</a> by Eula of <a href="https://loreleice.net/">Loreleice’s Creative Studio</a></li>
+
 </ul>
 
 
