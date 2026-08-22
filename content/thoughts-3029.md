@@ -98,6 +98,8 @@ tag:
 
 <li><a href="https://loreleice.net/notebook/iwc-aug2026.html">The purpose of collecting digital media</a> by Eula of <a href="https://loreleice.net/">Loreleice’s Creative Studio</a></li>
 
+<li><a href="https://tobygeeksout.micro.blog/2026/08/21/purpose-doesnt-come-first.html">Purpose Doesn&#8217;t Come First</a> by Toby of <a href="https://tobygeeksout.micro.blog/">Toby Geeks Out!</a></li>
+
 </ul>
 
 
