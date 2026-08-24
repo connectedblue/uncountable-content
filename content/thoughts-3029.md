@@ -100,6 +100,8 @@ tag:
 
 <li><a href="https://tobygeeksout.micro.blog/2026/08/21/purpose-doesnt-come-first.html">Purpose Doesn&#8217;t Come First</a> by Toby of <a href="https://tobygeeksout.micro.blog/">Toby Geeks Out!</a></li>
 
+<li><a href="https://littledigitalplumgarden.vercel.app/indie-web-carnival/a-spandrels-of-biology/">A. Spandrels of Biology</a> by Ginny of <a href="https://littledigitalplumgarden.vercel.app/">Plum Garden</a></li>
+
 </ul>
 
 
