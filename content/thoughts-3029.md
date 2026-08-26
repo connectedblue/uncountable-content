@@ -102,6 +102,8 @@ tag:
 
 <li><a href="https://littledigitalplumgarden.vercel.app/indie-web-carnival/a-spandrels-of-biology/">A. Spandrels of Biology</a> by Ginny of <a href="https://littledigitalplumgarden.vercel.app/">Plum Garden</a></li>
 
+<li><a href="https://html-chunder.neocities.org/posts/purpose-and-principles/">Purpose and principles</a> by Zak of <a href="https://html-chunder.neocities.org/">Zkbro</a></li>
+
 </ul>
 
 
