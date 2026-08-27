@@ -104,6 +104,8 @@ tag:
 
 <li><a href="https://html-chunder.neocities.org/posts/purpose-and-principles/">Purpose and principles</a> by Zak of <a href="https://html-chunder.neocities.org/">Zkbro</a></li>
 
+<li><a href="https://kedara.eu/purpose-of-tear-water-tea/">The purpose of tear-water tea</a> by Ruben of <a href="https://kedara.eu/">Kedara</a></li>
+
 </ul>
 
 
