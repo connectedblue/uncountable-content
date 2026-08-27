@@ -106,6 +106,10 @@ tag:
 
 <li><a href="https://kedara.eu/purpose-of-tear-water-tea/">The purpose of tear-water tea</a> by Ruben of <a href="https://kedara.eu/">Kedara</a></li>
 
+<li><a href="https://brennan.day/writing-by-accident-and-surrendering-on-purpose/">Writing By Accident &amp; Surrendering On Purpose</a> by Brennan of <a href="https://brennan.day/">brennan.day</a></li>
+
+<li><a href="https://emsh.cat/en/the-people-are-still-there/">The People Are Still There</a> by emsh of <a href="https://emsh.cat/en/">embedding-shapes</a></li>
+
 </ul>
 
 
