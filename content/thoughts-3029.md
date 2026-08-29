@@ -110,6 +110,10 @@ tag:
 
 <li><a href="https://emsh.cat/en/the-people-are-still-there/">The People Are Still There</a> by emsh of <a href="https://emsh.cat/en/">embedding-shapes</a></li>
 
+<li><a href="https://bookswiftieandrew.net/blog/2026/08/purpose-found-or-earned/">Purpose: Found or Earned?</a> by Andrew of <a href="https://bookswiftieandrew.net/">BookSwiftieAndrew</a></li>
+
+<li><a href="https://francescrossley.com/zero-purpose/">Zero purpose</a> by Fran of <a href="https://francescrossley.com/">What the Fran</a></li>
+
 </ul>
 
 
