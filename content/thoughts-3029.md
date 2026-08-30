@@ -114,6 +114,8 @@ tag:
 
 <li><a href="https://francescrossley.com/zero-purpose/">Zero purpose</a> by Fran of <a href="https://francescrossley.com/">What the Fran</a></li>
 
+<li><a href="https://hamatti.org/posts/a-lot-of-what-ive-learned-ive-learned-from-open-web/">A lot of what I’ve learned, I’ve learned from open web</a> by Juhis of <a href="https://hamatti.org/">Juha-Matti Santala</a></li>
+
 </ul>
 
 
