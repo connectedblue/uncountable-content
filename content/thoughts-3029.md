@@ -116,6 +116,9 @@ tag:
 
 <li><a href="https://hamatti.org/posts/a-lot-of-what-ive-learned-ive-learned-from-open-web/">A lot of what I’ve learned, I’ve learned from open web</a> by Juhis of <a href="https://hamatti.org/">Juha-Matti Santala</a></li>
 
+<li><a href="https://sarajaksa.eu/2026/08/indieweb-carnival-august-2026-i-have-no-purpose/">I have no purpose</a> by Sara of <a href="https://sarajaksa.eu/">Blog of Sara Jakša</a></li>
+
+
 </ul>
 
 
