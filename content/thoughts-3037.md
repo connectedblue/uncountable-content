@@ -54,7 +54,7 @@ tag: []
 
 
 
-<p class="wp-block-paragraph">Aside from the coding type things, none of these activities were even remotely on my radar while I was working.  So, I don&#8217;t really believe that purpose has to be singular, unchanging north star.  Instead it&#8217;s just a impulsive responsive to wanting to feel wanted.</p>
+<p class="wp-block-paragraph">Aside from the coding type things, none of these activities were even remotely on my radar while I was working. So, I don&#8217;t really believe that purpose has to be singular, unchanging north star. Instead it&#8217;s just a impulsive response to wanting to feel wanted.</p>
 
 
 
@@ -74,4 +74,4 @@ tag: []
 
 
 
-<p class="wp-block-paragraph"> </p>
+<p class="wp-block-paragraph"></p>
