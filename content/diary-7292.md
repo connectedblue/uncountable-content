@@ -11,9 +11,9 @@ featured_media_url: "https://media.uncountable.uk/diary/2026/06/19201101/PXL_202
 featured_media_srcset: "https://media.uncountable.uk/diary/2026/06/19201101/PXL_20260619_114609521-300x225.webp 300w, https://media.uncountable.uk/diary/2026/06/19201101/PXL_20260619_114609521-1024x768.webp 1024w, https://media.uncountable.uk/diary/2026/06/19201101/PXL_20260619_114609521-150x150.webp 150w, https://media.uncountable.uk/diary/2026/06/19201101/PXL_20260619_114609521-640x480.webp 640w, https://media.uncountable.uk/diary/2026/06/19201101/PXL_20260619_114609521.webp 1722w"
 type: post
 category:
-  - name: Gloucestershire Vale Conservation Volunteers
-    slug: gloucestershire-vale-conservation-volunteers
-    id: 12
+  - name: Gloucestershire Wildlife Trust
+    slug: gloucs-wildlife-trust
+    id: 6
 tag:
   - name: Fromebridge Friday
     slug: fromebridge-friday
@@ -41,7 +41,7 @@ tag:
 
 <style>.kadence-column7292_1051be-b0 > .kt-inside-inner-col,.kadence-column7292_1051be-b0 > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column7292_1051be-b0 > .kt-inside-inner-col{column-gap:var(--global-kb-gap-sm, 1rem);}.kadence-column7292_1051be-b0 > .kt-inside-inner-col{flex-direction:column;}.kadence-column7292_1051be-b0 > .kt-inside-inner-col > .aligncenter{width:100%;}.kadence-column7292_1051be-b0 > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column7292_1051be-b0{position:relative;}@media all and (max-width: 1024px){.kadence-column7292_1051be-b0 > .kt-inside-inner-col{flex-direction:column;justify-content:center;}}@media all and (max-width: 767px){.kadence-column7292_1051be-b0 > .kt-inside-inner-col{flex-direction:column;justify-content:center;}}</style>
 <div class="wp-block-kadence-column kadence-column7292_1051be-b0"><div class="kt-inside-inner-col">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="762" src="https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-1024x762.webp" alt="A canal tow path with people cutting vegetation with scythes. Giant dumper bag for the clippings" class="wp-image-7293" srcset="https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-1024x762.webp 1024w, https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-300x223.webp 300w, https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-640x476.webp 640w, https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988.webp 1683w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Cutting back towpath vegetation</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="762" src="https://diary.uncountable.uk/wp-content/uploads/PXL_20260619_090856988-1024x762.webp" alt="A canal tow path with people cutting vegetation with scythes. Giant dumper bag for the clippings" class="wp-image-7293" srcset="https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-1024x762.webp 1024w, https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-300x223.webp 300w, https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988-640x476.webp 640w, https://media.uncountable.uk/diary/2026/06/19201047/PXL_20260619_090856988.webp 1683w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Cutting back towpath vegetation</figcaption></figure>
 </div></div>
 
 </div></div>
