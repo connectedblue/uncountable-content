@@ -1,8 +1,8 @@
 ---
 id: 2307
-title: SWSG video bridge
+title: Video bridge
 date: "2025-03-31T09:21:25"
-slug: swsg-video-bridge
+slug: video-bridge
 site: "https://thoughts.uncountable.uk"
 wp_url: "https://thoughts.uncountable.uk"
 root_slug: thoughts
@@ -21,27 +21,19 @@ tag:
 ---
 
 
-<p>Video calls happen on the following link, which is best accessed from a PC rather than phone:</p>
+<p class="wp-block-paragraph">I use Jitsi for video calls.  It&#8217;s like zoom, but open source and fewer restrictions.   Each call can last 95 minutes.  If we need longer, a second link is provided to use after the first one expires.</p>
 
 
 
-<p><a href="https://meet.jit.si/DamagingJudgementsMarketPolitely">Jitsi Video Bridge</a></p>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Video Bridge</strong></td><td><strong>Dial in alternative</strong></td></tr><tr><td><a href="https://meet.jit.si/DamagingJudgementsMarketPolitely">Click here to join the call initially</a></td><td>Phone: 0203 885 2179<br>PIN: 3066 2380 95#</td></tr><tr><td><a href="https://meet.jit.si/AwkwardEventsOutrageNicely">Click here if the bridge expires and we want to continue the call</a></td><td>Phone: 0203 885 2179<br>PIN: 496 613 148#</td></tr></tbody></table></figure>
 
 
 
-<p>No login is required to join the call, except if you are the organiser (see below).</p>
+<p class="wp-block-paragraph">The video links are best accessed from a PC rather than phone.  No login is required to join the call.</p>
 
 
 
-<p>There is also an option to dial in on the following:</p>
-
-
-
-<p>Phone:  0203 885 2179<br>PIN:   3066 2380 95#</p>
-
-
-
-<p>See below if you have technical issues joining the call.</p>
+<p class="wp-block-paragraph">See below if you have technical issues joining the call.</p>
 
 
 
@@ -49,11 +41,11 @@ tag:
 
 
 
-<p>The Jitsi platform is free, performant, functional, anonymous and no login is required. </p>
+<p class="wp-block-paragraph">The Jitsi platform is free, performant, functional, anonymous and no login is required. </p>
 
 
 
-<p>However, it&#8217;s not without issues sometimes and people have struggled to get their sound and microphones working on their devices. The following tips may help:</p>
+<p class="wp-block-paragraph">However, it&#8217;s not without issues sometimes and people have struggled to get their sound and microphones working on their devices. The following tips may help:</p>
 
 
 
@@ -100,15 +92,3 @@ tag:
 
 <li>There is a text chat feature in the app, so if you are in the room and think there&#8217;s a problem, drop a message in that.</li>
 </ul>
-
-
-
-<h3 class="wp-block-heading">Organising a call</h3>
-
-
-
-<p>Call organisers will need to join first with a login to allow other participants to get in. The easiest way to do this is with a google account, but other options are available too.</p>
-
-
-
-<p>Once logged in, people can just join the call.  You will have some moderation options such as muting all.</p>
