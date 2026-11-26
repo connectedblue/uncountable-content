@@ -15,9 +15,9 @@ category:
     slug: glorious-grasslands
     id: 5
 tag:
-  - name: 2025 Seed Harvesting
-    slug: 2025-seed-harvesting
-    id: 58
+  - name: 2026 Seed harvesting
+    slug: 2026-seed-harvesting
+    id: 64
 ---
 
 
